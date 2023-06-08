@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Okolje skozi zgodovino: <lb/>izbrane tematike iz okoljske zgodovine druge
-                    polovice 20. stoletja</title>
+                    polovice 20. stoletja <lb/>Študentski zbornik</title>
                 <respStmt>
                     <resp>Uredila</resp>
                     <name>Luka Požar</name>
@@ -20,14 +20,14 @@
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
                     <p>To delo je ponujeno pod <ref
-                        target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative
-                        Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
-                        licenco</ref>
+                            target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative
+                            Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
+                            licenco</ref>
                     </p>
                     <p rend="ciptitle"/>
                     <p rend="ciptitle"/>
                     <p rend="cip">Način dostopa (URL): <lb/><ref target="a"/><lb/><ref target="a"
-                    /></p>
+                        /></p>
                 </availability>
                 <idno type="cobiss">COBISS.SI-ID </idno>
                 <idno type="ISBN">
@@ -44,16 +44,16 @@
             </langUsage>
             <textClass>
                 <keywords xml:lang="sl">
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
                 </keywords>
                 <keywords xml:lang="en">
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -65,12 +65,13 @@
                     <titlePart type="main"> Okolje skozi zgodovino:</titlePart>
                     <titlePart type="sub"> izbrane tematike iz okoljske zgodovine druge polovice 20.
                         stoletja </titlePart>
+                    <titlePart type="sub">Študentski zbornik</titlePart>
                 </docTitle>
                 <docAuthor>Luka Požar (ur.)</docAuthor>
                 <docAuthor>Tereza Prešeren (ur.)</docAuthor>
                 <graphic url="naslovnica.jpg"/>
                 <docImprint>
-                    <publisher>Inštitut za novejšo zgodovino</publisher>
+                    <publisher></publisher>
                     <pubPlace>Ljubljana</pubPlace>
                     <docDate when="2023">2023</docDate>
                 </docImprint>
@@ -106,13 +107,13 @@
                     revolucija povezana s sedentarnim načinom življenja, povečevanjem varnosti in
                     možnosti preživetja ter oblikovanjem novih, večjih in bolj strnjenih oblik
                     poseljevanja pokrajine. Ker je človek tako kot večina drugih živalskih vrst
-                    socialno in stacionarno bitje, so ti naselbinski zametki začeli navezovati
-                        stike<hi rend="italic">.</hi> Ti stiki, ki so bili lahko trgovske,
-                    politične, verske, vojaške, izobraževalne in še marsikatere druge narave, so
-                    spodbujali vse večje posege človeka v naravo. Pri tem govorimo o izredno širokem
-                    spektru pojavov: gradnji urbanih naselbin, nastanku prometne infrastrukture in
-                    komunalnih storitev, pridobivanju novih bivalnih in/ali gospodarskih površin ter
-                    surovin, posegih zaradi (vojaško) strateške vrednosti itd.</p>
+                    socialno bitje, so ti naselbinski zametki začeli navezovati stike. Ti stiki, ki
+                    so bili lahko trgovske, politične, verske, vojaške, izobraževalne in še
+                    marsikatere druge narave, so spodbujali vse večje posege človeka v naravo. Pri
+                    tem govorimo o izredno širokem spektru pojavov: gradnji urbanih naselbin,
+                    nastanku prometne infrastrukture in komunalnih storitev, pridobivanju novih
+                    bivalnih in/ali gospodarskih površin ter surovin, posegih zaradi (vojaško)
+                    strateške vrednosti itd.</p>
                 <p style="text-align:justify">Vpliv teh posegov je enako barvit, kot so posegi sami.
                     Pridobivanje agrarnih in bivalnih površin na Nizozemskem v srednjem veku, tj.
                     zavzemanje morskih površin in spreminjanje njihove namembnosti ter ekosistema,
@@ -191,24 +192,24 @@
                     pa se moramo spomniti tudi na dejstvo, da imajo človekova ravnanja tudi posreden
                     vpliv na obremenitve okolja. Moderna potrošnja je namreč neločljivo povezana z
                     industrijsko proizvodnjo, ki porablja ogromne količine energije in vode, spušča
-                    v zrak za živa bitja nevarne emisije snovi ter onesnažuje mnoge vire pitne vode
-                    na eni strani. Na drugi strani pa je moderen življenjski stil skoraj popolnoma
-                    odvisen od prometa, ki s prevažanjem surovin, izdelkov, pridelkov ali ljudi ter
-                    zahtevo po gradnji primerne infrastrukture ravno tako močno obremenjuje okolje.
-                    Pri tem sodelujemo vsi – nekateri bolj, drugi manj. Zavedanje in v končni fazi
-                    tudi javno politično priznavanje lokalnih, državnih in svetovnih okoljskih
-                    problemov, kot so onesnaževanje voda, zraka, prsti s kemikalijami, tanjšanje
-                    ozonskega plašča, povečan učinek tople grede in še mnogi drugi, sta privedla do
-                    tega, da je postalo okolje skoraj vsakdanja, če ne že stalna tema javnega
-                    diskurza ali vsebin množičnih medijev. V želji po trajnostnem oziroma sonaravnem
-                    razvoju so se na gonilne sile onesnaževanja okolja, pritiske in obremenitve
-                    vsuli številni odgovori, odzivi in ukrepi tako s strani laične javnosti kot s
-                    strani strokovnjakov s tega področja. Treba se je zavedati, da je nujno najti
+                    v zrak za živa bitja nevarne emisije ter onesnažuje mnoge vire pitne vode na eni
+                    strani. Na drugi strani pa je moderen življenjski stil skoraj popolnoma odvisen
+                    od prometa, ki s prevažanjem surovin, izdelkov, pridelkov ali ljudi ter zahtevo
+                    po gradnji primerne infrastrukture ravno tako močno obremenjuje okolje. Pri tem
+                    sodelujemo vsi – nekateri bolj, drugi manj. Zavedanje in v končni fazi tudi
+                    javno politično priznavanje lokalnih, državnih in svetovnih okoljskih problemov,
+                    kot so onesnaževanje voda, zraka, prsti s kemikalijami, tanjšanje ozonskega
+                    plašča, povečan učinek tople grede in še mnogi drugi, sta privedla do tega, da
+                    je postalo okolje skoraj vsakdanja, če ne že stalna tema javnega diskurza ali
+                    vsebin množičnih medijev. V želji po trajnostnem oziroma sonaravnem razvoju so
+                    se na gonilne sile onesnaževanja okolja, pritiske in obremenitve vsuli številni
+                    odgovori, odzivi in ukrepi tako s strani laične javnosti kot s strani
+                    strokovnjakov s tega področja. Treba se je zavedati, da je nujno najti
                     ravnovesje med materialnim blagostanjem, socialno varnostjo ter zdravim okoljem.
                     Za vzpostavitev tega ravnovesja pa je ključno, da pride do povezanega delovanja
                     in razvoja gospodarstva, družbe in okolja. </p>
                 <p style="text-align:justify">Kako dolgo bo človek s svojim napredkom rušil naravna
-                    ravnovesja? Vztrajnost, domiselnost, in znanje, ki so nam ta napredek omogočili,
+                    ravnovesja? Vztrajnost, domiselnost in znanje, ki so nam ta napredek omogočili,
                     nam lahko pomagajo poskrbeti, da zmanjšamo pritiske in obremenitve okolja.
                     Zavedanje človekovega prevladujočega vpliva na naravo in procese v njej je
                     namreč ključno za začetek sprememb, ki bodo v prihodnosti te vplive skušale
@@ -625,7 +626,7 @@
                                 xml:id="ftn32" n="32"> Dekleva, Gospodarski razvoj območja,
                                 178</note> Po stečaju ga je leta 2000 prevzela korporacija Fantoni
                             Spa iz Italije, ki je proizvodnjo tehnološko popolnoma posodobila v
-                            letih 2006 in 2007 in tako zagnala novo proizvodno linijo. <note
+                            letih 2006 in 2007 ter tako zagnala novo proizvodno linijo.<note
                                 place="foot" xml:id="ftn33" n="33"> Lorenčič in Prinčič, Slovenska
                                 industrija od nastanka do danes, 271</note> Modernizacija in
                             avtomatizacija proizvodnega procesa sta pomenili tudi kadrovsko
@@ -639,10 +640,11 @@
                             zaradi česar je, kot bomo videli v nadaljevanju, lokalno prebivalstvo
                             precej nezadovoljno.<note place="foot" xml:id="ftn36" n="36"> Milostnik
                                 Valenčič, 2021</note></p>
-                        <figure xml:id="figure01">
-                            <graphic url="Pozar_Slika_1.jpeg"></graphic>
+                        <figure xml:id="figure01" rend="imageviewer">
+                            <graphic url="Pozar_Slika_1.jpeg"/>
+                            <graphic url="Pozar_Slika_1-normal.jpg"/>
                             <head>Lesnoindustrijsko podjetje Lesonit.<note place="foot"
-                                xml:id="ftn37" n="37"> Fotografija: Luka Požar, 2023</note>
+                                    xml:id="ftn37" n="37"> Fotografija: Luka Požar, 2023</note>
                             </head>
                         </figure>
                     </div>
@@ -782,11 +784,11 @@
                         emisij v ozračje ter hrupom, problematična so bila tudi degradirana območja
                         nekdanjih tovarn in odlagališč.<note place="foot" xml:id="ftn55" n="55">
                             Stopar, Stanje okolja v občini Ilirska Bistrica, 17–26</note></p>
-                    <figure xml:id="figure02">
-                        <graphic url="Pozar_Slika_2.jpg"></graphic>
-                        <head>Reka Reka, v
-                            ozadju je tovarna Lesonit.<note place="foot" xml:id="ftn56" n="56">
-                            Fotografija: Luka Požar, 2023</note></head>
+                    <figure xml:id="figure02" rend="imageviewer">
+                        <graphic url="Pozar_Slika_2.jpg"/>
+                        <graphic url="Pozar_Slika_2-normal.jpg"/>
+                        <head>Reka Reka, v ozadju je tovarna Lesonit.<note place="foot"
+                                xml:id="ftn56" n="56"> Fotografija: Luka Požar, 2023</note></head>
                     </figure>
                     <p style="text-align:justify">Z industrijskim razvojem območja se je pričelo
                         močno onesnaževanje voda. Krivca za industrijsko onesnaženost reke Reke sta
@@ -835,17 +837,17 @@
                         ogroženost doline reke Reke.<note place="foot" xml:id="ftn67" n="67"> Kobold
                             in Švab, Hidrološka analiza porečja Reke za leto 2008, 195</note>
                     </p>
-                    <figure xml:id="figure03">
-                        <graphic url="Pozar_Slika_3.jpg"></graphic>
-                        <head>Akumulacijsko
-                            jezero Mola.<note place="foot" xml:id="ftn68" n="68"> Fotografija:
-                            Luka Požar, 2023</note></head>
+                    <figure xml:id="figure03" rend="imageviewer">
+                        <graphic url="Pozar_Slika_3.jpg"/>
+                        <graphic url="Pozar_Slika_3-normal.jpg"/>
+                        <head>Akumulacijsko jezero Mola.<note place="foot" xml:id="ftn68" n="68">
+                                Fotografija: Luka Požar, 2023</note></head>
                     </figure>
-                    <figure xml:id="figure04">
-                        <graphic url="Pozar_Slika_4.jpg"></graphic>
-                        <head>Akumulacijsko
-                            jezero Klivnik.<note place="foot" xml:id="ftn69" n="69">
-                            Fotografija: Luka Požar, 2023</note></head>
+                    <figure xml:id="figure04" rend="imageviewer">
+                        <graphic url="Pozar_Slika_4.jpg"/>
+                        <graphic url="Pozar_Slika_4-normal.jpg"/>
+                        <head>Akumulacijsko jezero Klivnik.<note place="foot" xml:id="ftn69" n="69">
+                                Fotografija: Luka Požar, 2023</note></head>
                     </figure>
                     <p style="text-align:justify">Problematičen je tudi potok Trnovšek,<note
                             place="foot" xml:id="ftn70" n="70"> Volk, Zasnova sonaravnega razvoja
@@ -899,7 +901,7 @@
                         saj se les razklada, prevaža, naklada; pri tem se stresajo tudi ostanki
                         blata in skorje lesa. Večje tovrstne emisije so prisotne v sušnem in
                         vetrovnem vremenu. Prah nastaja tudi v sekalnici. Za zmanjšanje emisijskih
-                        vrednosti so bili vgrajene naprave za filtriranje zraka pred njegovim
+                        vrednosti so bile vgrajene naprave za filtriranje zraka pred njegovim
                         izpustom v ozračje, ki vsebujejo različne filtre. Vir prašnih delcev
                         predstavlja tudi deponija z odpadnimi vlakni za kurjavo – ta se, denimo,
                         zaradi zmanjševanja odnašanja lesnih vlaken v okolico v vetrovnem vremenu
@@ -934,7 +936,7 @@
                         območje lahko tako označimo objekte nekdanje Tovarne organskih kislin – Tok
                         Ilirska Bistrica. Večina objektov namreč propada, mnogi so zelo poškodovani
                         in nevzdrževani, zato niti ni smiselno razmišljati o njihovi ohranitvi in
-                        obnovi. Degradirane površine so nahajajo neposredno v mestu, kjer bi prostor
+                        obnovi. Degradirane površine se nahajajo neposredno v mestu, kjer bi prostor
                         lahko namenili drugim namembnostim, ki so bolj smiselne in primernejše za
                         takšno lokacijo. Problem predstavljajo tudi azbestno-cementne plošče, ki so
                         na večini objektov prisotne kot kritina ali fasadna obloga.<note
@@ -944,12 +946,12 @@
                         odpadkov Tovarne organskih kislin – Tok Ilirska Bistrica.<note place="foot"
                             xml:id="ftn83" n="83"> Stopar, Stanje okolja v občini Ilirska Bistrica,
                             24</note></p>
-                    <figure xml:id="figure05">
-                        <graphic url="Pozar_Slika_5.jpg"></graphic>
-                        <head>Propadajoča
-                            stavba nekdanje Tovarne organskih kislin – Tok Ilirska
-                            Bistrica.<note place="foot" xml:id="ftn84" n="84"> Fotografija:
-                            Luka Požar, 2023</note>
+                    <figure xml:id="figure05" rend="imageviewer">
+                        <graphic url="Pozar_Slika_5.jpg"/>
+                        <graphic url="Pozar_Slika_5-normal.jpg"/>
+                        <head>Propadajoča stavba nekdanje Tovarne organskih kislin – Tok Ilirska
+                                Bistrica.<note place="foot" xml:id="ftn84" n="84"> Fotografija: Luka
+                                Požar, 2023</note>
                         </head>
                     </figure>
                     <p style="text-align:justify">Čeprav se prispevek osredotoča na industrijsko
@@ -1194,7 +1196,7 @@
                         Razvoj pokrajine je že vrsto let sicer usmerjen k okolju, prijazni, varni in
                         čisti industriji, vendar sta kljub določenim primerom dobre prakse v zvezi z
                         reševanjem okoljskih problemov iz preteklosti med lokalnim prebivalstvom še
-                        vedno prisotni nezadovoljstvo s stanjem okolja ter mnenje, da še ni bilo
+                        vedno prisotna nezadovoljstvo s stanjem okolja ter mnenje, da še ni bilo
                         storjeno dovolj, predvsem v zvezi z zmanjšanjem onesnaženosti reke Reke.</p>
                 </div>
             </div>
@@ -1327,9 +1329,9 @@
                                 Ramšak, Jezera, 5</note> Ko so v dolini začeli rudariti, ta problem
                             še ni bil zaznan, saj je bila letna količina izkopa lignita relativno
                             majhna. Po drugi svetovni vojni pa so letno izkopali veliko več lignita,
-                            zato so se takrat pojavile prve ugreznine oziroma pingi in celo jezerca
-                            oziroma tajhti.<note place="foot" xml:id="ftn127" n="127"> Lukaček,
-                                Premogovniška dejavnost</note></p>
+                            zato so se takrat pojavile prve ugreznine oziroma »pingi« in celo
+                            jezerca oziroma »tajhti«.<note place="foot" xml:id="ftn127" n="127">
+                                Lukaček, Premogovniška dejavnost</note></p>
                         <p style="text-align:justify">Prva vidna posledica vse večjega izkopavanja
                             premoga je bilo razpokano površje, kasneje pa so se pojavili zaporedni
                             prelomi, ob katerih so se tla začela ugrezati.<note place="foot"
@@ -1360,11 +1362,11 @@
                             površina ugreznjenega površja presegla 7 km<hi rend="superscript"
                             >2</hi>, prostornina pa 150 milijonov m<hi rend="superscript"
                             >3</hi>.</p>
-                        <figure xml:id="figure06">
-                            <graphic url="Kuster_Slika_1.jpg"></graphic>
-                            <head>Ugrezninsko
-                                območje.<note place="foot" xml:id="ftn135" n="135">
-                                Fotografija: Peter Kuster, 2023</note>
+                        <figure xml:id="figure06" rend="imageviewer">
+                            <graphic url="Kuster_Slika_1.jpg"/>
+                            <graphic url="Kuster_Slika_1-normal.jpg"/>
+                            <head>Ugrezninsko območje.<note place="foot" xml:id="ftn135" n="135">
+                                    Fotografija: Peter Kuster, 2023</note>
                             </head>
                         </figure>
                         <p style="text-align:justify">Zaradi degradacije pokrajine so prebivalci
@@ -1423,11 +1425,11 @@
                             Lepene, napajajo jezerski dotoki (v jezero letno priteče okrog 5,4
                             milijona litrov vode) in padavine.<note place="foot" xml:id="ftn142"
                                 n="142"> Šterbenk, Ževart in Ramšak, Jezera, 5</note></p>
-                        <figure xml:id="figure07">
-                            <graphic url="Kuster_Slika_2.jpg"></graphic>
-                            <head>Škalsko
-                                jezero.<note place="foot" xml:id="ftn143" n="143"> Fotografija:
-                                Nikita Kuster, 2023</note>
+                        <figure xml:id="figure07" rend="imageviewer">
+                            <graphic url="Kuster_Slika_2.jpg"/>
+                            <graphic url="Kuster_Slika_2-normal.jpg"/>
+                            <head>Škalsko jezero.<note place="foot" xml:id="ftn143" n="143">
+                                    Fotografija: Nikita Kuster, 2023</note>
                             </head>
                         </figure>
                         <p style="text-align:justify">Velenjsko jezero je največje med vsemi
@@ -1446,11 +1448,11 @@
                             večjo prostornino jezera zelo malo, saj se ta voda v teoriji zamenja
                             šele v dveh letih. <note place="foot" xml:id="ftn144" n="144"> Šterbenk,
                                 Ževart in Ramšak, Jezera, 6–7</note></p>
-                        <figure xml:id="figure08">
-                            <graphic url="Kuster_Slika_3.jpg"></graphic>
-                            <head>Velenjsko
-                                jezero.<note place="foot" xml:id="ftn145" n="145"> Fotografija:
-                                Nikita Kuster, 2023</note>
+                        <figure xml:id="figure08" rend="imageviewer">
+                            <graphic url="Kuster_Slika_3.jpg"/>
+                            <graphic url="Kuster_Slika_3-normal.jpg"/>
+                            <head>Velenjsko jezero.<note place="foot" xml:id="ftn145" n="145">
+                                    Fotografija: Nikita Kuster, 2023</note>
                             </head>
                         </figure>
                         <p style="text-align:justify">Družmirsko jezero je najmlajše med Šaleškimi
@@ -1466,11 +1468,11 @@
                             zaključku izkopavanja na tem območju naj bi bilo največje v dolini.<note
                                 place="foot" xml:id="ftn147" n="147"> Šterbenk in Kotnik, Poročilo,
                                 66–67</note></p>
-                        <figure xml:id="figure09">
-                            <graphic url="Kuster_Slika_4.jpg"></graphic>
-                            <head>Družmirsko
-                                jezero.<note place="foot" xml:id="ftn148" n="148"> Fotografija:
-                                Alenka Kuster, 2022</note>
+                        <figure xml:id="figure09" rend="imageviewer">
+                            <graphic url="Kuster_Slika_4.jpg"/>
+                            <graphic url="Kuster_Slika_4-normal.jpg"/>
+                            <head>Družmirsko jezero.<note place="foot" xml:id="ftn148" n="148">
+                                    Fotografija: Alenka Kuster, 2022</note>
                             </head>
                         </figure>
                         <p style="text-align:justify">Tanja Cegnar in Zoran Pavšek v študiji iz leta
@@ -1708,11 +1710,13 @@
                         in s tem povezanih ukrepov, ki jih Velenje še vedno izvaja, je mesto 27. 10.
                         2022 postalo zeleni ambasador Evrope. <note place="foot" xml:id="ftn179"
                             n="179"> Mesta občina Velenje, Velenje</note></p>
-                    <figure xml:id="figure10">
-                        <graphic url="Kuster_Slika_5.jpg"></graphic>
-                        <head>Pogled na
-                            Velenjsko jezero s plažo in Visto v ozadju.<note place="foot"
-                            xml:id="ftn180" n="180"> Fotografija: Zoja Kuster, 2022</note></head></figure>
+                    <figure xml:id="figure10" rend="imageviewer">
+                        <graphic url="Kuster_Slika_5.jpg"/>
+                        <graphic url="Kuster_Slika_5-normal.jpg"/>
+                        <head>Pogled na Velenjsko jezero s plažo in Visto v ozadju.<note
+                                place="foot" xml:id="ftn180" n="180"> Fotografija: Zoja Kuster,
+                                2022</note></head>
+                    </figure>
                 </div>
             </div>
             <div type="chapter" xml:id="ch03">
@@ -2112,218 +2116,227 @@
                         okoljski znak <hi rend="italic">Zeleni ključ</hi> dobil tudi Rok Virag,
                         ponudnik namestitev v kočah na Veliki planini.<note place="foot"
                             xml:id="ftn229" n="229"> Prav tam.</note></p>
-                    <p style="text-align:justify"><hi rend="bold">3.1 Trajnostna mobilnost v
-                            Kamniku</hi></p>
-                    <p style="text-align:justify">Kamnik je dobro dostopen z javnim prevozom. Po
-                        običajnem voznem redu na relaciji Ljubljana–Kamnik je med tednom na voljo 66
-                        avtobusnih povezav in 18 povezav z vlakom, na relaciji Kamnik–Ljubljana pa
-                        64 avtobusnih povezav in 20 povezav z vlakom. Med vikendom je na relaciji v
-                        obe smeri na voljo 18 avtobusnih povezav v soboto in 17 v nedeljo, ob
-                        sobotah pa je na voljo tudi 6 povezav z vlakom.<note place="foot"
-                            xml:id="ftn230" n="230"> Arriva Slovenija, 2023; Slovenske železnice,
-                            2023</note></p>
-                    <table rend="rules" xml:id="table-1">
-                        <head>Tabela 1: Vozni red avtobusov in vlakov na
-                            relacijah Ljubljana–Kamnik in Kamnik–Ljubljana.<note place="foot"
-                                xml:id="ftn231" n="231"> Prav tam.</note></head>
-                        <row>
-                            <cell rend="both"/>
-                            <cell rend="both" cols="2"><hi rend="bold">avtobus</hi></cell>
-                            <cell rend="both" cols="2"><hi rend="bold">vlak</hi></cell>
-                        </row>
-                        <row>
-                            <cell rend="both"/>
-                            <cell rend="both"><hi rend="bold">med tednom</hi></cell>
-                            <cell rend="both"><hi rend="bold">med vikendom</hi></cell>
-                            <cell rend="both"><hi rend="bold">med tednom</hi></cell>
-                            <cell rend="both"><hi rend="bold">med vikendom</hi></cell>
-                        </row>
-                        <row>
-                            <cell rend="both"><hi rend="bold">Ljubljana–Kamnik</hi></cell>
-                            <cell rend="both">66</cell>
-                            <cell rend="both"><p style="text-align:justify">18 (sobota)</p><p
-                                    style="text-align:justify">17 (nedelja)</p></cell>
-                            <cell rend="both">18</cell>
-                            <cell rend="both">6 (sobota)</cell>
-                        </row>
-                        <row>
-                            <cell rend="both"><hi rend="bold">Kamnik–Ljubljana</hi></cell>
-                            <cell rend="both">64</cell>
-                            <cell rend="both"><p style="text-align:justify">18 (sobota)</p><p
-                                    style="text-align:justify">17 (nedelja)</p></cell>
-                            <cell rend="both">20</cell>
-                            <cell rend="both">6 (sobota)</cell>
-                        </row>
-                    </table>
-                    <p style="text-align:justify">Povezave med Kamnikom in njegovimi turističnimi
-                        točkami so slabše. Do Term Snovik med tednom vozijo le 3 avtobusi, med
-                        vikendom pa 2. Do Kamniške Bistrice med tednom in med vikendom vozijo 3
-                        avtobusi. Do Volčjega Potoka med tednom vozijo 4 avtobusi, v soboto
-                        avtobusnih povezav ni, v nedeljo pa vozi le en avtobus.<note place="foot"
-                            xml:id="ftn232" n="232"> Arriva Slovenija, 2023</note></p>
-                    <table rend="rules" xml:id="table-2">
-                    <head>Tabela 2: Avtobusne povezave med Kamnikom in
-                        turističnimi točkami.<note place="foot" xml:id="ftn233" n="233"> Prav
-                            tam.</note></head>
-                        <row>
-                            <cell rend="both"/>
-                            <cell rend="both" cols="2"><hi rend="bold">avtobus</hi></cell>
-                        </row>
-                        <row>
-                            <cell rend="both"/>
-                            <cell rend="both"><hi rend="bold">med tednom</hi></cell>
-                            <cell rend="both"><hi rend="bold">med vikendom</hi></cell>
-                        </row>
-                        <row>
-                            <cell rend="both"><hi rend="bold">Terme Snovik</hi></cell>
-                            <cell rend="both">3</cell>
-                            <cell rend="both">2</cell>
-                        </row>
-                        <row>
-                            <cell rend="both"><hi rend="bold">Kamniška Bistrica</hi></cell>
-                            <cell rend="both">3</cell>
-                            <cell rend="both">3</cell>
-                        </row>
-                        <row>
-                            <cell rend="both"><hi rend="bold">Volčji Potok</hi></cell>
-                            <cell rend="both">4</cell>
-                            <cell rend="both">1 (nedelja)</cell>
-                        </row>
-                    </table>
-                    <p style="text-align:justify">Kamnik je med letoma 2012 in 2015 organiziral
-                        turistični avtobus, imenovan <hi rend="italic">Kamnikbus</hi>, ki je krožil
-                        med različnimi turističnimi točkami znotraj občine. Sprva je povezoval
-                        nakupovalno središče Supernova (prej Qlandia), Naravni zdravilni gaj
-                        Tunjice, Kamniško Bistrico in Terme Snovik, spomladi leta 2013 pa se je temu
-                        krogu priključil tudi Arboretum Volčji Potok. <hi rend="italic"
-                            >Kamnikbus</hi> je vozil vse dni v tednu, tudi med prazniki, dokler ni
-                        bil leta 2016 zaradi zmanjšanja sredstev ukinjen.<note place="foot"
-                            xml:id="ftn234" n="234"> Cigale in Lampič, Razvoj turistične
-                            destinacije, 11 in 12; Kamnik Info</note> Poleti 2022 je bil organiziran
-                        brezplačen turistični ogled s kombijem – <hi rend="italic">S kombijem okol'
-                            Kamn'ka.</hi><note place="foot" xml:id="ftn235" n="235"> Visit
-                            Kamnik</note></p>
-                    <p style="text-align:justify">Občina Kamnik ima svojo <hi rend="italic">Celostno
-                            prometno strategijo</hi>, ki s svojimi ukrepi stremi k zmanjšanju
-                        izpustov CO<hi rend="subscript">2</hi>.<note place="foot" xml:id="ftn236"
-                            n="236"> Irt, Akcijski načrt po Lorbek, Trajnostni turizem, 34</note>
-                        Leta 2019 so v mestu uvedli javni sistem izposoje koles <hi rend="italic"
-                            >Kamkolo</hi>, katerega namen je »izganjanje pločevine iz mesta ter
-                        izboljšati naravi in ljudem prijazno mestno mobilnost«.<note place="foot"
-                            xml:id="ftn237" n="237"> Visit Kamnik</note> Sitem <hi rend="italic"
-                            >Kamkolo</hi> uporabnikom ponuja 40 koles, ki si jih lahko izposodijo na
-                        sedmih postajah (Supernova, v bližini pošte na Duplici, železniška postaja
-                        Kamnik, Glasbena šola Kamnik, glavna avtobusna postaja v Kamniku,
-                        Zdravstveni dom dr. Julija Polca Kamnik in Dom kulture Kamnik). Vsaka
-                        postaja ima deset priklopov za kolesa in pet električnih koles. <note
-                            place="foot" xml:id="ftn238" n="238"> Kamkolo, 2023</note> Rabo koles
-                        spodbujajo tudi v Slovenia Eco Resortu in Termah Snovik, kjer gostom
-                        ponujajo brezplačno izposojo koles. Leta 2021 se je začela gradnja
-                        kolesarske povezave Kamnik–Mengeš–Trzin–Ljubljana, leta 2022 pa se je začelo
-                        še urejanje kolesarske povezave Kamnik–Godič.<note place="foot"
-                            xml:id="ftn239" n="239"> Čebulj, Logar in Burja, Kamnik v
-                        2021</note></p>
-                    <p style="text-align:justify">V letu 2020 so v Kamniku postavili 3 nove
-                        polnilnice za električne avtomobile. Nova pridobitev občine pa je P + R
-                        (parkiraj in presedi) Kamnik, ki se nahaja na zadnji železniški postaji –
-                        Kamnik Graben. P + R Kamnik je namenjen predvsem dnevnim migrantom v
-                        Ljubljano, saj omogoča parkiranje osebnih avtomobilov in koles ter
-                        prestopanje na vlak, ki vozi do Ljubljane. Cilj tega projekta je zmanjšati
-                        število vozil tako v mestnem središču kot tudi na cestah, ki vodijo do
-                        Ljubljane, s tem pa zmanjšati negativne vplive motornega prometa na okolje.
-                            <note place="foot" xml:id="ftn240" n="240"> Irt, Akcijski načrt po
-                            Lorbek, Trajnostni turizem, 34 in 35</note></p>
-                    <p style="text-align:justify"><hi rend="bold">3.2 Onesnaževanje vode in
-                            zraka</hi></p>
-                    <p style="text-align:justify">Kamniška občina ima ogromno vodnih virov, na
-                        katere je treba skrbno paziti, saj se z njimi oskrbuje okoli 30.000
-                        Kamničanov. Enega izmed večjih problemov na področju onesnaževanja vode
-                        predstavlja neurejena kanalizacija počitniških koč na Veliki planini, zaradi
-                        katere imajo prebivalci v dolini vse večji problem z dostopom do pitne vode.
-                        Problem je še toliko bolj zaznan zaradi kraškega površja Velike planine in
-                        posledično večje občutljivosti kraškega vodonosnika na onesnaževanje. Ker
-                        infrastruktura koč na Veliki planini ni zakonsko določena in nadzirana,
-                        lahko o odvozu odpadkov in greznice odločajo lastniki koč sami. Januarja
-                        2021 je občina lastnike pozvala, naj čim prej uredijo odvajanje in čiščenje
-                        voda. Rok za ureditev dotičnega problema je bil 31. december 2021. Da pa ne
-                        bi bilo vse na plečih lastnikov, so občinski svetniki leta 2020 sprejeli
-                        Pravilnik o subvencioniranju nakupa malih komunalnih čistilnih naprav,
-                        nepretočnih greznic in hišnih črpališč na območju občine Kamnik.<note
-                            place="foot" xml:id="ftn241" n="241"> Paladin, Veliko planino</note></p>
-                    <p style="text-align:justify">Agencija RS za okolje na območju Kamnika ne beleži
-                        obremenjujočega onesnaženja zraka, razen pozimi, ko se v naseljih zaradi
-                        ogrevanja preseže dnevna mejna vrednost za delce PM10. Poleti se lahko v
-                        visokogorju zazna visoka raven ozona. Ker je bil Kamnik nekoč močno
-                        industrijsko mesto, so takšni podatki zelo spodbudni in kažejo na ekološko
-                        in trajnostno naravnanost.<note place="foot" xml:id="ftn242" n="242"> Irt,
-                            Akcijski načrt po Lorbek, Trajnostni turizem, 35</note></p>
-                    <p style="text-align:justify"><hi rend="bold">3.3 Skrb za rastlinstvo in
-                            živalstvo</hi></p>
-                    <p style="text-align:justify">Problem ogrožanja rastlinskih in živalskih vrst
-                        lahko zaznamo predvsem na Veliki Planini, kjer poskus ohranjanja tradicij za
-                        seboj pušča negativne posledice. Največji problem predstavlja planinsko
-                        pašništvo, saj mnoge rastline zaradi živali preminejo, tiste, ki jih živali
-                        ne jedo, pa se preveč razrastejo.<note place="foot" xml:id="ftn243" n="243">
-                            Prav tam.</note> »Gorske ekstenzivno gojene pašnike ohranjajo z
-                        ekstenzivno pašo. Pri tem je potrebno nadzirati koncentracijo in vrsto
-                        pasoče se živine, da ne preseže nosilnosti tal ter okolja«.<note
-                            place="foot" xml:id="ftn244" n="244"> Lorbek, Trajnostni turizem,
-                            35</note></p>
-                    <figure xml:id="figure11">
-                        <graphic url="Breznik_slika_1.jpg"></graphic>
-                        <head>Krave na Gojški
-                            planini.<note place="foot" xml:id="ftn245" n="245"> Fotografija:
-                            Teja Breznik, 2022</note>
-                        </head>
-                    </figure>
-                    <p style="text-align:justify">Na Veliki planini skušajo zaradi povečanega
-                        turizma z opozorilnimi tablami skrbeti za varnost rastlinstva, živalstva, pa
-                        tudi za varstvo turistov samih. Med drugim je prepovedano trgati alpsko
-                        cvetje, ne sme se motiti domačih in divjih živali, psi morajo biti obvezno
-                        na vrvici, vožnja s kolesom je dovoljena samo po urejenih poteh, odpadke je
-                        treba odnesti nazaj v dolino.<note place="foot" xml:id="ftn246" n="246">
-                            Kleč in Mučič, Velika planina</note> Dodaten problem Velike planine je
-                        zimska turistična sezona, ki s seboj prinese zimsko smučanje in škoduje
-                        tamkajšnjim rastlinam.<note place="foot" xml:id="ftn247" n="247"> Irt,
-                            Akcijski načrt po Lorbek, Trajnostni turizem, 35</note></p>
-                    <figure xml:id="figure12">
-                        <graphic url="Breznik_slika_2.jpeg"></graphic>
-                        <head>Tabla s pravili
-                            obnašanja na Mali planini.<note place="foot" xml:id="ftn248"
-                            n="248"> Teja Breznik, 2023 (fotografija)</note></head></figure>
-                    <figure xml:id="figure13">
-                        <graphic url="Breznik_Slika_3.jpeg"></graphic>
-                        <head>Opozorilna tabla
-                            na Mali planini.<note place="foot" xml:id="ftn249" n="249"> Teja
-                            Breznik, 2023 (fotografija)</note>
-                        </head>
-                    </figure>
-                    <p style="text-align:justify"><hi rend="bold">3.4 Ravnanje z odpadki</hi></p>
-                    <p style="text-align:justify">Občinski svet občine Kamnik je v devetdesetih
-                        letih sprejel različne odloke na področju varstva okolja, med drugim so to
-                            <hi rend="italic">Odlok o varstvu zraka na območju Občine Kamnik</hi>,
-                        ki ureja in določa ukrepe varovanja zraka pred onesnaženjem, nadzorstvo in
-                        kazenske določbe; <hi rend="italic">Odlok o oskrbi s pitno vodo v Občini
-                            Kamnik</hi>, ki ureja in določa vodovodno omrežje in naprave, objekte in
-                        naprave upravljalca in uporabnika, priključitev na javni vodovod,
-                        financiranje javne službe oskrbe s pitno vodo, meritve porabe in obračun
-                        porabljene vode, prekinitve dobave vode, izredne razmere in varčevanje z
-                        vodo, obveznosti lastnika, upravljalca in uporabnika, odjem vode iz
-                        hidrantov ter kazenske določbe; <hi rend="italic">Odlok o zbiranju
-                            komunalnih odpadkov na območju Občine Kamnik</hi>, ki ureja in določa
-                        organizacijsko in prostorsko zasnovo izvajanja javne službe, vrste in obseg
-                        storitev javne službe, pogoje za zagotavljanje in uporabo storitev javne
-                        službe, pravice in obveznosti uporabnikov javnih storitev, financiranje
-                        javne službe, vrste objektov, naprav in opreme za izvajanje javne službe,
-                        nadzor in kazenske določbe; ter druge odloke, povezane z odvajanjem in
-                        čiščenjem odpadnih in padavinskih voda.<note place="foot" xml:id="ftn250"
-                            n="250"> Občina Kamnik, 2023</note></p>
-                    <p style="text-align:justify">Julija 2021 je Občina Kamnik v sodelovanju z
-                        Občino Komenda odprla moderen nov zbirni center odpadkov Suhadole, ki je
-                        namenjen občanom Kamnika in Komende. »Gradnja novega zbirnega centra je bila
-                        nujno potrebna tako zaradi zakonskih obvez kot tudi zaradi zagotavljanja
-                        čistejšega in neonesnaženega okolja«.<note place="foot" xml:id="ftn251"
-                            n="251"> Čebulj, Logar in Burja, Kamnik v 2021</note></p>
+                    <div type="subchapter" xml:id="ch03-sub03.1">
+                        <head>3.1 Trajnostna mobilnost v Kamniku</head>
+                        <p style="text-align:justify">Kamnik je dobro dostopen z javnim prevozom. Po
+                            običajnem voznem redu na relaciji Ljubljana–Kamnik je med tednom na
+                            voljo 66 avtobusnih povezav in 18 povezav z vlakom, na relaciji
+                            Kamnik–Ljubljana pa 64 avtobusnih povezav in 20 povezav z vlakom. Med
+                            vikendom je na relaciji v obe smeri na voljo 18 avtobusnih povezav v
+                            soboto in 17 v nedeljo, ob sobotah pa je na voljo tudi 6 povezav z
+                                vlakom.<note place="foot" xml:id="ftn230" n="230"> Arriva Slovenija,
+                                2023; Slovenske železnice, 2023</note></p>
+                        <table rend="rules" xml:id="table-1" style="text-align:center">
+                            <head>Tabela 1: Vozni red avtobusov in vlakov na relacijah
+                                Ljubljana–Kamnik in Kamnik–Ljubljana.<note place="foot"
+                                    xml:id="ftn231" n="231"> Prav tam.</note></head>
+                            <row>
+                                <cell rend="both"/>
+                                <cell rend="both" cols="2"><hi rend="bold">avtobus</hi></cell>
+                                <cell rend="both" cols="2" style="text-align:center"><hi rend="bold"
+                                        >vlak</hi></cell>
+                            </row>
+                            <row>
+                                <cell rend="both"/>
+                                <cell rend="both"><hi rend="bold">med tednom</hi></cell>
+                                <cell rend="both"><hi rend="bold">med vikendom</hi></cell>
+                                <cell rend="both"><hi rend="bold">med tednom</hi></cell>
+                                <cell rend="both"><hi rend="bold">med vikendom</hi></cell>
+                            </row>
+                            <row>
+                                <cell rend="both"><hi rend="bold">Ljubljana–Kamnik</hi></cell>
+                                <cell rend="both">66</cell>
+                                <cell rend="both">18 (sobota)<lb/>17 (nedelja)</cell>
+                                <cell rend="both">18</cell>
+                                <cell rend="both">6 (sobota)</cell>
+                            </row>
+                            <row>
+                                <cell rend="both"><hi rend="bold">Kamnik–Ljubljana</hi></cell>
+                                <cell rend="both">64</cell>
+                                <cell rend="both">18 (sobota)<lb/>17 (nedelja)</cell>
+                                <cell rend="both">20</cell>
+                                <cell rend="both">6 (sobota)</cell>
+                            </row>
+                        </table>
+                        <p style="text-align:justify">Povezave med Kamnikom in njegovimi
+                            turističnimi točkami so slabše. Do Term Snovik med tednom vozijo le 3
+                            avtobusi, med vikendom pa 2. Do Kamniške Bistrice med tednom in med
+                            vikendom vozijo 3 avtobusi. Do Volčjega Potoka med tednom vozijo 4
+                            avtobusi, v soboto avtobusnih povezav ni, v nedeljo pa vozi le en
+                                avtobus.<note place="foot" xml:id="ftn232" n="232"> Arriva
+                                Slovenija, 2023</note></p>
+                        <table rend="rules" xml:id="table-2">
+                            <head>Tabela 2: Avtobusne povezave med Kamnikom in turističnimi
+                                    točkami.<note place="foot" xml:id="ftn233" n="233"> Prav
+                                    tam.</note></head>
+                            <row>
+                                <cell rend="both"/>
+                                <cell rend="both"><hi rend="bold">med tednom</hi></cell>
+                                <cell rend="both"><hi rend="bold">med vikendom</hi></cell>
+                            </row>
+                            <row>
+                                <cell rend="both"><hi rend="bold">Terme Snovik</hi></cell>
+                                <cell rend="both">3</cell>
+                                <cell rend="both">2</cell>
+                            </row>
+                            <row>
+                                <cell rend="both"><hi rend="bold">Kamniška Bistrica</hi></cell>
+                                <cell rend="both">3</cell>
+                                <cell rend="both">3</cell>
+                            </row>
+                            <row>
+                                <cell rend="both"><hi rend="bold">Volčji Potok</hi></cell>
+                                <cell rend="both">4</cell>
+                                <cell rend="both">1 (nedelja)</cell>
+                            </row>
+                        </table>
+                        <p style="text-align:justify">Kamnik je med letoma 2012 in 2015 organiziral
+                            turistični avtobus, imenovan <hi rend="italic">Kamnikbus</hi>, ki je
+                            krožil med različnimi turističnimi točkami znotraj občine. Sprva je
+                            povezoval nakupovalno središče Supernova (prej Qlandia), Naravni
+                            zdravilni gaj Tunjice, Kamniško Bistrico in Terme Snovik, spomladi leta
+                            2013 pa se je temu krogu priključil tudi Arboretum Volčji Potok. <hi
+                                rend="italic">Kamnikbus</hi> je vozil vse dni v tednu, tudi med
+                            prazniki, dokler ni bil leta 2016 zaradi zmanjšanja sredstev
+                                ukinjen.<note place="foot" xml:id="ftn234" n="234"> Cigale in
+                                Lampič, Razvoj turistične destinacije, 11 in 12; Kamnik Info</note>
+                            Poleti 2022 je bil organiziran brezplačen turistični ogled s kombijem –
+                                <hi rend="italic">S kombijem okol' Kamn'ka.</hi><note place="foot"
+                                xml:id="ftn235" n="235"> Visit Kamnik</note></p>
+                        <p style="text-align:justify">Občina Kamnik ima svojo <hi rend="italic"
+                                >Celostno prometno strategijo</hi>, ki s svojimi ukrepi stremi k
+                            zmanjšanju izpustov CO<hi rend="subscript">2</hi>.<note place="foot"
+                                xml:id="ftn236" n="236"> Irt, Akcijski načrt po Lorbek, Trajnostni
+                                turizem, 34</note> Leta 2019 so v mestu uvedli javni sistem izposoje
+                            koles <hi rend="italic">Kamkolo</hi>, katerega namen je »izganjanje
+                            pločevine iz mesta ter izboljšati naravi in ljudem prijazno mestno
+                                mobilnost«.<note place="foot" xml:id="ftn237" n="237"> Visit
+                                Kamnik</note> Sitem <hi rend="italic">Kamkolo</hi> uporabnikom
+                            ponuja 40 koles, ki si jih lahko izposodijo na sedmih postajah
+                            (Supernova, v bližini pošte na Duplici, železniška postaja Kamnik,
+                            Glasbena šola Kamnik, glavna avtobusna postaja v Kamniku, Zdravstveni
+                            dom dr. Julija Polca Kamnik in Dom kulture Kamnik). Vsaka postaja ima
+                            deset priklopov za kolesa in pet električnih koles. <note place="foot"
+                                xml:id="ftn238" n="238"> Kamkolo, 2023</note> Rabo koles spodbujajo
+                            tudi v Slovenia Eco Resortu in Termah Snovik, kjer gostom ponujajo
+                            brezplačno izposojo koles. Leta 2021 se je začela gradnja kolesarske
+                            povezave Kamnik–Mengeš–Trzin–Ljubljana, leta 2022 pa se je začelo še
+                            urejanje kolesarske povezave Kamnik–Godič.<note place="foot"
+                                xml:id="ftn239" n="239"> Čebulj, Logar in Burja, Kamnik v
+                                2021</note></p>
+                        <p style="text-align:justify">V letu 2020 so v Kamniku postavili 3 nove
+                            polnilnice za električne avtomobile. Nova pridobitev občine pa je P + R
+                            (parkiraj in presedi) Kamnik, ki se nahaja na zadnji železniški postaji
+                            – Kamnik Graben. P + R Kamnik je namenjen predvsem dnevnim migrantom v
+                            Ljubljano, saj omogoča parkiranje osebnih avtomobilov in koles ter
+                            prestopanje na vlak, ki vozi do Ljubljane. Cilj tega projekta je
+                            zmanjšati število vozil tako v mestnem središču kot tudi na cestah, ki
+                            vodijo do Ljubljane, s tem pa zmanjšati negativne vplive motornega
+                            prometa na okolje. <note place="foot" xml:id="ftn240" n="240"> Irt,
+                                Akcijski načrt po Lorbek, Trajnostni turizem, 34 in 35</note></p>
+                    </div>
+                    <div type="subchapter" xml:id="ch03-sub03.2">
+                        <head>3.2 Onesnaževanje vode in zraka</head>
+                        <p style="text-align:justify">Kamniška občina ima ogromno vodnih virov, na
+                            katere je treba skrbno paziti, saj se z njimi oskrbuje okoli 30.000
+                            Kamničanov. Enega izmed večjih problemov na področju onesnaževanja vode
+                            predstavlja neurejena kanalizacija počitniških koč na Veliki planini,
+                            zaradi katere imajo prebivalci v dolini vse večji problem z dostopom do
+                            pitne vode. Problem je še toliko bolj zaznan zaradi kraškega površja
+                            Velike planine in posledično večje občutljivosti kraškega vodonosnika na
+                            onesnaževanje. Ker infrastruktura koč na Veliki planini ni zakonsko
+                            določena in nadzirana, lahko o odvozu odpadkov in greznice odločajo
+                            lastniki koč sami. Januarja 2021 je občina lastnike pozvala, naj čim
+                            prej uredijo odvajanje in čiščenje voda. Rok za ureditev dotičnega
+                            problema je bil 31. december 2021. Da pa ne bi bilo vse na plečih
+                            lastnikov, so občinski svetniki leta 2020 sprejeli Pravilnik o
+                            subvencioniranju nakupa malih komunalnih čistilnih naprav, nepretočnih
+                            greznic in hišnih črpališč na območju občine Kamnik.<note place="foot"
+                                xml:id="ftn241" n="241"> Paladin, Veliko planino</note></p>
+                        <p style="text-align:justify">Agencija RS za okolje na območju Kamnika ne
+                            beleži obremenjujočega onesnaženja zraka, razen pozimi, ko se v naseljih
+                            zaradi ogrevanja preseže dnevna mejna vrednost za delce PM10. Poleti se
+                            lahko v visokogorju zazna visoka raven ozona. Ker je bil Kamnik nekoč
+                            močno industrijsko mesto, so takšni podatki zelo spodbudni in kažejo na
+                            ekološko in trajnostno naravnanost.<note place="foot" xml:id="ftn242"
+                                n="242"> Irt, Akcijski načrt po Lorbek, Trajnostni turizem,
+                                35</note></p>
+                    </div>
+                    <div type="subchapter" xml:id="ch03-sub03.3">
+                        <head>3.3 Skrb za rastlinstvo in živalstvo</head>
+                        <p style="text-align:justify">Problem ogrožanja rastlinskih in živalskih
+                            vrst lahko zaznamo predvsem na Veliki Planini, kjer poskus ohranjanja
+                            tradicij za seboj pušča negativne posledice. Največji problem
+                            predstavlja planinsko pašništvo, saj mnoge rastline zaradi živali
+                            preminejo, tiste, ki jih živali ne jedo, pa se preveč razrastejo.<note
+                                place="foot" xml:id="ftn243" n="243"> Prav tam.</note> »Gorske
+                            ekstenzivno gojene pašnike ohranjajo z ekstenzivno pašo. Pri tem je
+                            potrebno nadzirati koncentracijo in vrsto pasoče se živine, da ne
+                            preseže nosilnosti tal ter okolja«.<note place="foot" xml:id="ftn244"
+                                n="244"> Lorbek, Trajnostni turizem, 35</note></p>
+                        <figure xml:id="figure11" rend="imageviewer">
+                            <graphic url="Breznik_slika_1.jpg"/>
+                            <graphic url="Breznik_slika_1-normal.jpg"/>
+                            <head>Krave na Gojški planini.<note place="foot" xml:id="ftn245" n="245"
+                                    > Fotografija: Teja Breznik, 2022</note>
+                            </head>
+                        </figure>
+                        <p style="text-align:justify">Na Veliki planini skušajo zaradi povečanega
+                            turizma z opozorilnimi tablami skrbeti za varnost rastlinstva,
+                            živalstva, pa tudi za varstvo turistov samih. Med drugim je prepovedano
+                            trgati alpsko cvetje, ne sme se motiti domačih in divjih živali, psi
+                            morajo biti obvezno na vrvici, vožnja s kolesom je dovoljena samo po
+                            urejenih poteh, odpadke je treba odnesti nazaj v dolino.<note
+                                place="foot" xml:id="ftn246" n="246"> Kleč in Mučič, Velika
+                                planina</note> Dodaten problem Velike planine je zimska turistična
+                            sezona, ki s seboj prinese zimsko smučanje in škoduje tamkajšnjim
+                                rastlinam.<note place="foot" xml:id="ftn247" n="247"> Irt, Akcijski
+                                načrt po Lorbek, Trajnostni turizem, 35</note></p>
+                        <figure xml:id="figure12" rend="imageviewer">
+                            <graphic url="Breznik_slika_2.jpeg"/>
+                            <graphic url="Breznik_slika_2-normal.jpg"/>
+                            <head>Tabla s pravili obnašanja na Mali planini.<note place="foot"
+                                    xml:id="ftn248" n="248"> Teja Breznik, 2023
+                                (fotografija)</note></head>
+                        </figure>
+                        <figure xml:id="figure13" rend="imageviewer">
+                            <graphic url="Breznik_Slika_3.jpeg"/>
+                            <graphic url="Breznik_Slika_3-normal.jpg"/>
+                            <head>Opozorilna tabla na Mali planini.<note place="foot"
+                                    xml:id="ftn249" n="249"> Teja Breznik, 2023 (fotografija)</note>
+                            </head>
+                        </figure>
+                    </div>
+                    <div type="subchapter" xml:id="ch03-sub03.4">
+                        <head>3.4 Ravnanje z odpadki</head>
+                        <p style="text-align:justify">Občinski svet občine Kamnik je v devetdesetih
+                            letih sprejel različne odloke na področju varstva okolja, med drugim so
+                            to <hi rend="italic">Odlok o varstvu zraka na območju Občine
+                            Kamnik</hi>, ki ureja in določa ukrepe varovanja zraka pred
+                            onesnaženjem, nadzorstvo in kazenske določbe; <hi rend="italic">Odlok o
+                                oskrbi s pitno vodo v Občini Kamnik</hi>, ki ureja in določa
+                            vodovodno omrežje in naprave, objekte in naprave upravljalca in
+                            uporabnika, priključitev na javni vodovod, financiranje javne službe
+                            oskrbe s pitno vodo, meritve porabe in obračun porabljene vode,
+                            prekinitve dobave vode, izredne razmere in varčevanje z vodo, obveznosti
+                            lastnika, upravljalca in uporabnika, odjem vode iz hidrantov ter
+                            kazenske določbe; <hi rend="italic">Odlok o zbiranju komunalnih odpadkov
+                                na območju Občine Kamnik</hi>, ki ureja in določa organizacijsko in
+                            prostorsko zasnovo izvajanja javne službe, vrste in obseg storitev javne
+                            službe, pogoje za zagotavljanje in uporabo storitev javne službe,
+                            pravice in obveznosti uporabnikov javnih storitev, financiranje javne
+                            službe, vrste objektov, naprav in opreme za izvajanje javne službe,
+                            nadzor in kazenske določbe; ter druge odloke, povezane z odvajanjem in
+                            čiščenjem odpadnih in padavinskih voda.<note place="foot"
+                                xml:id="ftn250" n="250"> Občina Kamnik, 2023</note></p>
+                        <p style="text-align:justify">Julija 2021 je Občina Kamnik v sodelovanju z
+                            Občino Komenda odprla moderen nov zbirni center odpadkov Suhadole, ki je
+                            namenjen občanom Kamnika in Komende. »Gradnja novega zbirnega centra je
+                            bila nujno potrebna tako zaradi zakonskih obvez kot tudi zaradi
+                            zagotavljanja čistejšega in neonesnaženega okolja«.<note place="foot"
+                                xml:id="ftn251" n="251"> Čebulj, Logar in Burja, Kamnik v
+                                2021</note></p>
+                    </div>
                 </div>
                 <div type="subchapter" xml:id="ch03-sub04">
                     <head>4 ZAKLJUČEK</head>
@@ -2878,11 +2891,11 @@
                             izvoza sta podjetji v obravnavanem desetletju več kot 95 % svojih
                             produktov prodali doma (glej tabelo 1).</p>
                         <table rend="rules" xml:id="table-3">
-                            <head>Tabela 1: Prodaja in izvoz – kemična
-                                industrija v letih 1975, 1979, 1982 in 1986.<note place="foot"
-                                    xml:id="ftn310" n="310"> Ahačič, Križman in Mauser, Industrijske
-                                    organizacije; Ahačič, Industrijske organizacije; Ahačič in Markovič,
-                                    Industrijske organizacije; Markovič in Ahačič, Industrijske
+                            <head>Tabela 1: Prodaja in izvoz – kemična industrija v letih 1975,
+                                1979, 1982 in 1986.<note place="foot" xml:id="ftn310" n="310">
+                                    Ahačič, Križman in Mauser, Industrijske organizacije; Ahačič,
+                                    Industrijske organizacije; Ahačič in Markovič, Industrijske
+                                    organizacije; Markovič in Ahačič, Industrijske
                                     organizacije</note></head>
                             <row>
                                 <cell rend="both"/>
@@ -3020,256 +3033,216 @@
                             in 1986. Glede na vse razpoložljive podatke o pesticidih in umetnih
                             gnojilih so v tabeli 2 predstavljeni podatki, ki se navezujejo na
                             proizvodnjo vseh kemijskih spojin, omenjenih v prvem poglavju. </p>
-                        <table rend="rules" xml:id="table-4">
-                            <head>Tabela 2: (Dejanska) proizvodnja in prodaja
-                                kemijskih industrijskih izdelkov v letih 1975, 1979, 1982 in 1986 (s. z.
-                                r. = sredstva za zaščito rastlin).<note place="foot" xml:id="ftn311"
+                        <table xml:id="table-4" style="[1]">
+                            <head>Tabela 2: (Dejanska) proizvodnja in prodaja kemijskih
+                                industrijskih izdelkov v letih 1975, 1979, 1982 in 1986 (s. z. r. =
+                                sredstva za zaščito rastlin).<note place="foot" xml:id="ftn311"
                                     n="311"> Ahačič, Križman in Mauser, Industrijske organizacije;
                                     Ahačič, Letni pregled; Ahačič in Markovič, Industrijske
                                     organizacije; Markovič in Ahačič, Industrijske
                                     organizacije.</note></head>
-                            <row>
-                                <cell rend="both"><hi rend="bold">TIP PROIZVODA</hi></cell>
-                                <cell rend="both"><hi rend="bold">ŠTEVILO PROIZVAJALCEV</hi></cell>
-                                <cell rend="both"><hi rend="bold">PROIZVEDENE KOLIČINE V
-                                    TONAH</hi></cell>
-                                <cell rend="both"><hi rend="bold">PRODANE KOLIČINE V
-                                    TONAH</hi></cell>
+                            <row style="background-color:#fff">
+                                <cell><hi rend="bold">TIP PROIZVODA</hi></cell>
+                                <cell><hi rend="bold">ŠTEVILO PROIZVAJALCEV</hi></cell>
+                                <cell><hi rend="bold">PROIZVEDENE KOLIČINE V TONAH</hi></cell>
+                                <cell><hi rend="bold">PRODANE KOLIČINE V TONAH</hi></cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Kalcijev karbid – apneni
-                                        dušik</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">17.002</cell>
-                                <cell rend="both">8.108</cell>
+                            <row style="background-color:#fff">
+                                <cell rows="4"><hi rend="bold">Kalcijev karbid – apneni
+                                    dušik</hi></cell>
+                                <cell rows="4">1</cell>
+                                <cell>17.002</cell>
+                                <cell>8.108</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">35.843</cell>
-                                <cell rend="both">31.942</cell>
+                            <row style="background-color:#fff">
+                                <cell>35.843</cell>
+                                <cell>31.942</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">39.002</cell>
-                                <cell rend="both">34.620</cell>
+                            <row style="background-color:#fff">
+                                <cell>39.002</cell>
+                                <cell>34.620</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">33.820</cell>
-                                <cell rend="both">29.417</cell>
+                            <row style="background-color:#fff">
+                                <cell>33.820</cell>
+                                <cell>29.417</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Modra galica – bakrov sulfat
-                                        (</hi>samo do 1979<hi rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">906</cell>
-                                <cell rend="both">858</cell>
+                            <row style="background-color:#fff">
+                                <cell rows="2"><hi rend="bold">Modra galica – bakrov sulfat
+                                    (</hi>samo do 1979<hi rend="bold">)</hi></cell>
+                                <cell rows="2">1</cell>
+                                <cell>906</cell>
+                                <cell>858</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">1.090</cell>
-                                <cell rend="both">1.100</cell>
+                            <row style="background-color:#fff">
+                                <cell>1.090</cell>
+                                <cell>1.100</cell>
                             </row>
-                            <row>
-                                <cell rend="both">s. z. r. –<hi rend="bold"> baker (</hi>od 1979
-                                    dalje pod bakrove spojine)</cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">659</cell>
-                                <cell rend="both">612</cell>
+                            <row style="background-color:#fff">
+                                <cell rows="4">s. z. r. –<hi rend="bold"> baker (</hi>od 1979 dalje
+                                    pod bakrove spojine)</cell>
+                                <cell rows="4">1</cell>
+                                <cell>659</cell>
+                                <cell>612</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">552</cell>
-                                <cell rend="both">490</cell>
+                            <row style="background-color:#fff">
+                                <cell>552</cell>
+                                <cell>490</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">633</cell>
-                                <cell rend="both">656</cell>
+                            <row style="background-color:#fff">
+                                <cell>633</cell>
+                                <cell>656</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">754</cell>
-                                <cell rend="both">656</cell>
+                            <row style="background-color:#fff">
+                                <cell>754</cell>
+                                <cell>656</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Insekticidi – žuželke (</hi>od
-                                    1979 dalje<hi rend="bold">)</hi></cell>
-                                <cell rend="both">2</cell>
-                                <cell rend="both">1.321</cell>
-                                <cell rend="both">1.087</cell>
+                            <row style="background-color:#fff">
+                                <cell rows="3"><hi rend="bold">Insekticidi – žuželke (</hi>od 1979
+                                        dalje<hi rend="bold">)</hi></cell>
+                                <cell rows="2">2</cell>
+                                <cell>1.321</cell>
+                                <cell>1.087</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">994</cell>
-                                <cell rend="both">784</cell>
+                            <row style="background-color:#fff">
+                                <cell>994</cell>
+                                <cell>784</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">351</cell>
-                                <cell rend="both">350</cell>
+                            <row style="background-color:#fff">
+                                <cell>1</cell>
+                                <cell>351</cell>
+                                <cell>350</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Sistemični fungicidi (</hi>1975<hi
+                            <row style="background-color:#fff">
+                                <cell rows="1"><hi rend="bold">Sistemični fungicidi (</hi>1975<hi
                                         rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">24</cell>
-                                <cell rend="both">24</cell>
+                                <cell rows="5">1</cell>
+                                <cell>24</cell>
+                                <cell>24</cell>
                             </row>
-                            <row>
-                                <cell rend="both">Druga s. z. r.<hi rend="bold"> – ditikarbamat
+                            <row style="background-color:#fff">
+                                <cell rows="1">Druga s. z. r.<hi rend="bold"> – ditikarbamat
                                         (</hi>fungicid<hi rend="bold">) (</hi>1975<hi rend="bold"
                                         >)</hi></cell>
-                                <cell rend="both"/>
-                                <cell rend="both">896</cell>
-                                <cell rend="both">666</cell>
+                                <cell>896</cell>
+                                <cell>666</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Fungicidi (</hi>od 1979 dalje<hi
+                            <row style="background-color:#fff">
+                                <cell rows="3"><hi rend="bold">Fungicidi (</hi>od 1979 dalje<hi
                                         rend="bold">)</hi></cell>
-                                <cell rend="both"/>
-                                <cell rend="both">1.117</cell>
-                                <cell rend="both">1.406</cell>
+                                <cell>1.117</cell>
+                                <cell>1.406</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">1.394</cell>
-                                <cell rend="both">1.208</cell>
+                            <row style="background-color:#fff">
+                                <cell>1.394</cell>
+                                <cell>1.208</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">518</cell>
-                                <cell rend="both">375</cell>
+                            <row style="background-color:#fff">
+                                <cell>518</cell>
+                                <cell>375</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Rodenticidi – antikoagulanti
-                                        (</hi>samo od 1979 do 1982<hi rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">40</cell>
-                                <cell rend="both">38</cell>
+                            <row style="background-color:#fff">
+                                <cell rows="2"><hi rend="bold">Rodenticidi – antikoagulanti
+                                    (</hi>samo od 1979 do 1982<hi rend="bold">)</hi></cell>
+                                <cell rows="2">1</cell>
+                                <cell>40</cell>
+                                <cell>38</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">52</cell>
-                                <cell rend="both">44</cell>
+                            <row style="background-color:#fff">
+                                <cell>52</cell>
+                                <cell>44</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Limacidi – železov fosfat
-                                        (</hi>1975<hi rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">21</cell>
-                                <cell rend="both">17</cell>
-                            </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Moluskicidi (</hi>1979<hi
+                            <row style="background-color:#fff">
+                                <cell><hi rend="bold">Limacidi – železov fosfat (</hi>1975<hi
                                         rend="bold">)</hi></cell>
-                                <cell rend="both"/>
-                                <cell rend="both">40</cell>
-                                <cell rend="both">35</cell>
+                                <cell rows="2">1</cell>
+                                <cell>21</cell>
+                                <cell>17</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Herbicidi (</hi>od 1979 dalje<hi
+                            <row style="background-color:#fff">
+                                <cell><hi rend="bold">Moluskicidi (</hi>1979<hi rend="bold"
+                                    >)</hi></cell>
+                                <cell>40</cell>
+                                <cell>35</cell>
+                            </row>
+                            <row style="background-color:#fff">
+                                <cell rows="3"><hi rend="bold">Herbicidi (</hi>od 1979 dalje<hi
                                         rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">1.685</cell>
-                                <cell rend="both">1.341</cell>
+                                <cell rows="4">1</cell>
+                                <cell>1.685</cell>
+                                <cell>1.341</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">964</cell>
-                                <cell rend="both">941</cell>
+                            <row style="background-color:#fff">
+                                <cell>964</cell>
+                                <cell>941</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
-                                <cell rend="both">91</cell>
-                                <cell rend="both">90</cell>
+                            <row style="background-color:#fff">
+                                <cell>91</cell>
+                                <cell>90</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Drugi herbicidi (</hi>1975)</cell>
-                                <cell rend="both"/>
-                                <cell rend="both">481</cell>
-                                <cell rend="both">441</cell>
+                            <row style="background-color:#fff">
+                                <cell><hi rend="bold">Drugi herbicidi (</hi>1975)</cell>
+                                <cell>481</cell>
+                                <cell>441</cell>
                             </row>
-                            <row>
-                                <cell rend="both">s. z. r. –<hi rend="bold"> živo srebro
-                                        (</hi>1975<hi rend="bold">)</hi></cell>
-                                <cell rend="both">2</cell>
-                                <cell rend="both">61</cell>
-                                <cell rend="both">73</cell>
+                            <row style="background-color:#fff">
+                                <cell>s. z. r. –<hi rend="bold"> živo srebro (</hi>1975<hi
+                                        rend="bold">)</hi></cell>
+                                <cell>2</cell>
+                                <cell>61</cell>
+                                <cell>73</cell>
                             </row>
-                            <row>
-                                <cell rend="both">s. z. r. – <hi rend="bold">fenoksi kislina
-                                        (</hi>1975<hi rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">7</cell>
-                                <cell rend="both">7</cell>
+                            <row style="background-color:#fff">
+                                <cell>s. z. r. – <hi rend="bold">fenoksi kislina (</hi>1975<hi
+                                        rend="bold">)</hi></cell>
+                                <cell rows="4">1</cell>
+                                <cell>7</cell>
+                                <cell>7</cell>
                             </row>
-                            <row>
-                                <cell rend="both">s. z. r. – <hi rend="bold">triazin
-                                    (</hi>1975)</cell>
-                                <cell rend="both"/>
-                                <cell rend="both">100</cell>
-                                <cell rend="both">100</cell>
+                            <row style="background-color:#fff">
+                                <cell>s. z. r. – <hi rend="bold">triazin (</hi>1975)</cell>
+                                <cell>100</cell>
+                                <cell>100</cell>
                             </row>
-                            <row>
-                                <cell rend="both">s. z. r. –<hi rend="bold"> fosforni estri
-                                        (</hi>1975<hi rend="bold">)</hi></cell>
-                                <cell rend="both"/>
-                                <cell rend="both">791</cell>
-                                <cell rend="both">675</cell>
+                            <row style="background-color:#fff">
+                                <cell>s. z. r. –<hi rend="bold"> fosforni estri (</hi>1975<hi
+                                        rend="bold">)</hi></cell>
+                                <cell>791</cell>
+                                <cell>675</cell>
                             </row>
-                            <row>
-                                <cell rend="both">s. z. r. –<hi rend="bold"> klor. ogljikovod.
-                                        (</hi>1975<hi rend="bold">)</hi></cell>
-                                <cell rend="both"/>
-                                <cell rend="both">10</cell>
-                                <cell rend="both">5</cell>
+                            <row style="background-color:#fff">
+                                <cell>s. z. r. –<hi rend="bold"> klor. ogljikovod. (</hi>1975<hi
+                                        rend="bold">)</hi></cell>
+                                <cell>10</cell>
+                                <cell>5</cell>
                             </row>
-                            <row>
-                                <cell rend="both"><hi rend="bold">Druga s. z. r. (</hi>1985 pod
-                                    druga sr. za varstvo rast.<hi rend="bold">)</hi></cell>
-                                <cell rend="both">2</cell>
-                                <cell rend="both">175</cell>
-                                <cell rend="both">82</cell>
+                            <row style="background-color:#fff">
+                                <cell rows="4"><hi rend="bold">Druga s. z. r. (</hi>1985 pod druga
+                                    sr. za varstvo rast.<hi rend="bold">)</hi></cell>
+                                <cell>2</cell>
+                                <cell>175</cell>
+                                <cell>82</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">612</cell>
-                                <cell rend="both">591</cell>
+                            <row style="background-color:#fff">
+                                <cell>1</cell>
+                                <cell>612</cell>
+                                <cell>591</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both">3</cell>
-                                <cell rend="both">2.600</cell>
-                                <cell rend="both">2.517</cell>
+                            <row style="background-color:#fff">
+                                <cell>3</cell>
+                                <cell>2.600</cell>
+                                <cell>2.517</cell>
                             </row>
-                            <row>
-                                <cell rend="both"/>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">2.572</cell>
-                                <cell rend="both">2.552</cell>
+                            <row style="background-color:#fff">
+                                <cell>1</cell>
+                                <cell>2.572</cell>
+                                <cell>2.552</cell>
                             </row>
-                            <row>
-                                <cell rend="both">Druga s. z. r. <hi rend="bold">– karbamat
-                                        (</hi>1975<hi rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
-                                <cell rend="both">131</cell>
-                                <cell rend="both">115</cell>
+                            <row style="background-color:#fff">
+                                <cell>Druga s. z. r. <hi rend="bold">– karbamat (</hi>1975<hi
+                                        rend="bold">)</hi></cell>
+                                <cell>1</cell>
+                                <cell>131</cell>
+                                <cell>115</cell>
                             </row>
                         </table>
                         <p style="text-align:justify">Proizvodnja kalcijevega karbida oz. apnenega
@@ -3358,14 +3331,14 @@
                             povečevalo količino proizvodnje do leta 1979 oz. 1982. Povečevanju
                             proizvodnje je sledila tudi prodaja (glej tabelo 2). </p>
                         <table rend="rules" xml:id="table-5">
-                            <head>Tabela 3: Imena podjetij, ki so proizvajala
-                                določene kemijske produkte v letih 1971 in 1975 (pod številko 221 v
-                                statističnem gradivu za leto 1971 ime proizvajalca ni znano).<note
-                                    place="foot" xml:id="ftn314" n="314"> Ahačič, Letni pregled;
-                                    Naveršnik in Ahačič, Letni pregled</note><hi rend="superscript">,
-                                    </hi><note place="foot" xml:id="ftn315" n="315"> Proizvodnjo
-                                        bakrovega sulfata bi lahko skoraj zagotovo povezali s Cinkarno v
-                                        Celju.</note></head>
+                            <head>Tabela 3: Imena podjetij, ki so proizvajala določene kemijske
+                                produkte v letih 1971 in 1975 (pod številko 221 v statističnem
+                                gradivu za leto 1971 ime proizvajalca ni znano).<note place="foot"
+                                    xml:id="ftn314" n="314"> Ahačič, Letni pregled; Naveršnik in
+                                    Ahačič, Letni pregled</note><hi rend="superscript">, </hi><note
+                                    place="foot" xml:id="ftn315" n="315"> Proizvodnjo bakrovega
+                                    sulfata bi lahko skoraj zagotovo povezali s Cinkarno v
+                                    Celju.</note></head>
                             <row>
                                 <cell rend="both"/>
                                 <cell rend="both"><hi rend="bold">1971</hi></cell>
@@ -3386,26 +3359,21 @@
                             <row>
                                 <cell rend="both"><hi rend="bold">Sredstva za zaščito
                                     rastlin</hi></cell>
-                                <cell rend="both"><p style="text-align:justify">1. šifra 221</p><p
-                                        style="text-align:justify">2. Pinus – tovarna kemičnih
-                                        izdelkov, Rače pri Mariboru</p></cell>
-                                <cell rend="both"><p style="text-align:justify">1. Cinkarna,
-                                        metalurško-kemična industrija, kemični obrati Celje</p><p
-                                        style="text-align:justify">2. LEK – tovarna farmacevtskih in
-                                        kemičnih izdelkov, Ljubljana</p><p
-                                        style="text-align:justify">3. Pinus – tovarna kemičnih
-                                        izdelkov, Rače pri Mariboru</p></cell>
+                                <cell rend="both">1. šifra 221<lb/>2. Pinus – tovarna kemičnih
+                                    izdelkov, Rače pri Mariboru</cell>
+                                <cell rend="both">1. Cinkarna, metalurško-kemična industrija,
+                                    kemični obrati Celje<lb/>2. LEK – tovarna farmacevtskih in
+                                    kemičnih izdelkov, Ljubljana<lb/>3. Pinus – tovarna kemičnih
+                                    izdelkov, Rače pri Mariboru</cell>
                             </row>
                             <row>
                                 <cell rend="both"><hi rend="bold">Mešana gnojila</hi></cell>
-                                <cell rend="both"><p style="text-align:justify">1. šifra 221</p><p
-                                        style="text-align:justify">2. Tovarna dušika Ruše</p></cell>
+                                <cell rend="both">1. šifra 221<lb/>2. Tovarna dušika Ruše</cell>
                                 <cell rend="both">1. Tovarna dušika Ruše</cell>
                             </row>
                             <row>
                                 <cell rend="both"><hi rend="bold">Fosforna gnojila</hi></cell>
-                                <cell rend="both"><p style="text-align:justify">1. šifra 221</p><p
-                                        style="text-align:justify">2. Tovarna dušika Ruše</p></cell>
+                                <cell rend="both">1. šifra 221<lb/>2. Tovarna dušika Ruše</cell>
                                 <cell rend="both">-</cell>
                             </row>
                         </table>
@@ -3444,8 +3412,8 @@
                             tabelo 4). Podobno kot pri modri galici bi bilo možno pripisati nihanja
                             med leti v prodaji zalogam in povpraševanju potrošnikov.</p>
                         <table rend="rules" xml:id="table-6">
-                            <head>Tabela 4: (Dejanska) proizvodnja in prodaja
-                                kemijskih industrijskih izdelkov v letih 1975, 1979, 1982 in 1986.<note
+                            <head>Tabela 4: (Dejanska) proizvodnja in prodaja kemijskih
+                                industrijskih izdelkov v letih 1975, 1979, 1982 in 1986.<note
                                     place="foot" xml:id="ftn316" n="316"> Ahačič, Križman in Mauser,
                                     Letni pregled; Ahačič, Letni pregled; Ahačič in Markovič, Letni
                                     pregled; Markovič in Ahačič, Letni pregled</note></head>
@@ -3458,45 +3426,37 @@
                                     TONAH</hi></cell>
                             </row>
                             <row>
-                                <cell rend="both"><hi rend="bold">Kompleksna gnojila (</hi>od 1979
-                                        dalje<hi rend="bold">)</hi></cell>
-                                <cell rend="both">1</cell>
+                                <cell rend="both" rows="3"><hi rend="bold">Kompleksna gnojila
+                                    (</hi>od 1979 dalje<hi rend="bold">)</hi></cell>
+                                <cell rend="both" rows="3">1</cell>
                                 <cell rend="both">73.647</cell>
                                 <cell rend="both">74.726</cell>
                             </row>
                             <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
                                 <cell rend="both">85.550</cell>
                                 <cell rend="both">77.501</cell>
                             </row>
                             <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
                                 <cell rend="both">90.407</cell>
                                 <cell rend="both">91.777</cell>
                             </row>
                             <row>
-                                <cell rend="both"><hi rend="bold">Mešana gnojila</hi></cell>
+                                <cell rend="both" rows="4"><hi rend="bold">Mešana
+                                    gnojila</hi></cell>
                                 <cell rend="both">1</cell>
                                 <cell rend="both">43.759 ef. t.</cell>
                                 <cell rend="both">42.257</cell>
                             </row>
                             <row>
-                                <cell rend="both"/>
-                                <cell rend="both">2</cell>
+                                <cell rend="both" rows="3">2</cell>
                                 <cell rend="both">5.190</cell>
                                 <cell rend="both">5.324</cell>
                             </row>
                             <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
                                 <cell rend="both">10.071</cell>
                                 <cell rend="both">11.270</cell>
                             </row>
                             <row>
-                                <cell rend="both"/>
-                                <cell rend="both"/>
                                 <cell rend="both">5.851</cell>
                                 <cell rend="both">5.724</cell>
                             </row>
@@ -3561,12 +3521,12 @@
                             porabe med letoma 1976 in 1988 kaže na porast porabe za 51,6 % (glej
                             tabelo 6).</p>
                         <table rend="rules" xml:id="table-7">
-                            <head>Tabela 5: Količina v tonah porabljenih umetnih
-                                gnojil in aktivnih snovi v letih 1976, 1979, 1982, 1985 in 1988 (debelo
-                                obrobljeno = velik preskok, sivo obarvano = najvišja porabljena
-                                količina).<note place="foot" xml:id="ftn319" n="319"> Juvanc in
-                                    Knol, Letni pregled; Juvanc, Letni pregled; Krznar, Letni pregled;
-                                    Knol in Juvanc, Letni pregled; Juvanc, Knol in Zdejlar, Letni
+                            <head>Tabela 5: Količina v tonah porabljenih umetnih gnojil in aktivnih
+                                snovi v letih 1976, 1979, 1982, 1985 in 1988 (debelo obrobljeno =
+                                velik preskok, sivo obarvano = najvišja porabljena količina).<note
+                                    place="foot" xml:id="ftn319" n="319"> Juvanc in Knol, Letni
+                                    pregled; Juvanc, Letni pregled; Krznar, Letni pregled; Knol in
+                                    Juvanc, Letni pregled; Juvanc, Knol in Zdejlar, Letni
                                     pregled</note></head>
                             <row>
                                 <cell rend="both"/>
@@ -3916,17 +3876,19 @@
                             place="foot" xml:id="ftn343" n="343"> Plokhy, Chernobyl,
                         39–42</note></p>
                     <p style="text-align:justify">Bil je čas za rutinsko preverjanje dela četrtega
-                        reaktorja. V ta namen so ga izklopili 24. aprila ob 23.10. Nedolgo po ponoči
-                        so opazili, da je energija naglo padla, kar so rešili tako, da so jo zvišali
-                        nazaj in nadaljevali s testom. Testom, ki je trajal le 36 sekund, preden se
-                        je začela katastrofa. A ura 1:23:40 bo ostala znana kot čas, ko se je začelo
-                        novo obdobje v vasi Černobil. Energija je hitro narastla na desetkrat večjo
-                        od dovoljene. Po štirih sekundah se je zgodila eksplozija. </p>
-                    <figure xml:id="figure14">
-                        <graphic url="Nedeljkovic%CC%81_Slika_1.jpg"></graphic>
-                        <head>Eksplozija
-                            četrtega reaktorja.<note place="foot" xml:id="ftn344" n="344">
-                            Wikimedia Commons, 2022</note></head></figure>
+                        reaktorja. V ta namen so ga izklopili 24. aprila ob 23.10. Nedolgo po
+                        polnoči so opazili, da je energija naglo padla, kar so rešili tako, da so jo
+                        zvišali nazaj in nadaljevali s testom. Testom, ki je trajal le 36 sekund,
+                        preden se je začela katastrofa. A ura 1:23:40 bo ostala znana kot čas, ko se
+                        je začelo novo obdobje v vasi Černobil. Energija je hitro narastla na
+                        desetkrat večjo od dovoljene. Po štirih sekundah se je zgodila
+                        eksplozija.</p>
+                    <figure xml:id="figure14" rend="imageviewer">
+                        <graphic url="Nedeljkovic%CC%81_Slika_1.jpg"/>
+                        <graphic url="Nedeljkovic%CC%81_Slika_1-normal.jpg"/>
+                        <head>Eksplozija četrtega reaktorja.<note place="foot" xml:id="ftn344"
+                                n="344"> Wikimedia Commons, 2022</note></head>
+                    </figure>
                     <p style="text-align:justify">V glavnih prostorih so bili vsi v šoku, nikomur ni
                         padlo na pamet, da je eksplozija prišla od reaktorja – mislili so, da je
                         težava nekje drugje, da gre celo morda za naravno nesrečo.<note place="foot"
@@ -3939,27 +3901,29 @@
                             Plokhy, Chernobyl, 84–86 in 88–90</note> Partijski komite Pripjata se je
                         sestal ob enajstih dopoldan. Sklepali so le, da ni časa za paniko in da ne
                         bodo storili ničesar, dokler ne dobijo navodil od komiteja. Med tem se je že
-                        več kot 130 oseb znašlo v bolnici. Gorbačov je bil obveščen že ob dveh
-                            ponoči.<note place="foot" xml:id="ftn347" n="347"> Plokhy, Chernobyl,
-                            104–105 109</note> Na sestankih, na katere je prihajalo vse več ljudi iz
-                        partije (večinoma ne tisti na najpomembnejših položajih), so razpravljali o
-                        evakuaciji. Najprej ji niso bili naklonjeni, da ne bi izbruhnila panika.
-                        Zanjo so se odločili šele 26. aprila okrog desetih zvečer. Ta se je začela
-                        36 ur po nesreči, 27. aprila.<note place="foot" xml:id="ftn348" n="348">
-                            Plokhy, Chernobyl, 114 in 120</note> A preden je več kot tisoč avtobusov
-                        odšlo iz Pripjata, je življenje ljudi izgledalo popolnoma normalno – šola,
-                        pisarne in parki so bili polni, kot da se prav nič ni dogajalo. Evakuacija
-                        naj bi bila »začasna«, trajala naj bi le tri dni. In naenkrat je več kot
-                        40.000 ljudi začelo širiti visoke količine radiacije po Kijevu in drugod.
-                        Organizacije pri umirjanju situacije na četrtem reaktorju sploh ni bilo do
-                        29. aprila. Do 1. maja je bilo vrženih več kot 5 ton peska na reaktor.
-                        Radiacija se je nekoliko zmanjšala do 2. maja.<note place="foot"
-                            xml:id="ftn349" n="349"> Plokhy, Chernobyl, 134–136, 138, 143</note></p>
-                    <figure xml:id="figure15">
-                        <graphic url="Nedeljkovic%CC%81_Slika_2.jpg"></graphic>
-                        <head>»Umirjanje
-                            posledic«.<note place="foot" xml:id="ftn350" n="350"> Picryl,
-                            2023</note></head></figure>
+                        več kot 130 oseb znašlo v bolnici. Gorbačov je bil o situaciji obveščen že
+                        ob dveh ponoči.<note place="foot" xml:id="ftn347" n="347"> Plokhy,
+                            Chernobyl, 104–105 109</note> Na sestankih, na katere je prihajalo vse
+                        več ljudi iz partije (večinoma ne tisti na najpomembnejših položajih), so
+                        razpravljali o evakuaciji. Najprej ji niso bili naklonjeni, da ne bi
+                        izbruhnila panika. Zanjo so se odločili šele 26. aprila okrog desetih
+                        zvečer. Ta se je začela 36 ur po nesreči, 27. aprila.<note place="foot"
+                            xml:id="ftn348" n="348"> Plokhy, Chernobyl, 114 in 120</note> A preden
+                        je več kot tisoč avtobusov odšlo iz Pripjata, je življenje ljudi izgledalo
+                        popolnoma normalno – šola, pisarne in parki so bili polni, kot da se prav
+                        nič ni dogajalo. Evakuacija naj bi bila »začasna«, trajala naj bi le tri
+                        dni. In naenkrat je več kot 40.000 ljudi začelo širiti visoke količine
+                        radiacije po Kijevu in drugod. Organizacije pri umirjanju situacije na
+                        četrtem reaktorju sploh ni bilo do 29. aprila. Do 1. maja je bilo vrženih
+                        več kot 5 ton peska na reaktor. Radiacija se je nekoliko zmanjšala do 2.
+                            maja.<note place="foot" xml:id="ftn349" n="349"> Plokhy, Chernobyl,
+                            134–136, 138, 143</note></p>
+                    <figure xml:id="figure15" rend="imageviewer">
+                        <graphic url="Nedeljkovic%CC%81_Slika_2.jpg"/>
+                        <graphic url="Nedeljkovic%CC%81_Slika_2-normal.jpg"/>
+                        <head>»Umirjanje posledic«.<note place="foot" xml:id="ftn350" n="350">
+                                Picryl, 2023</note></head>
+                    </figure>
                     <p style="text-align:justify">Sovjetska zveza se je odločila, da ne bo takoj
                         spregovorila o katastrofi. O njej ne bi spregovorila, če ne bi tega naredili
                         Švedi 28. aprila, ko so opazili zvišano raven radiacije na Švedskem. Po
@@ -3977,31 +3941,32 @@
                             186–188</note> Ti ljudje so bili večinoma mladi, ki so komaj končali
                         srednjo šolo. Najstarejši med njimi so bili stari 33 let.<note place="foot"
                             xml:id="ftn353" n="353"> Alexievich, Chernobyl Prayer</note></p>
-                    <figure xml:id="figure16">
-                        <graphic url="Nedeljkovic%CC%81_Slika_3.jpg"></graphic>
-                        <head>Tako imenovani
-                            »likvidatorji«.<note place="foot" xml:id="ftn354" n="354">
-                            Stahlmandesign 2006</note>
+                    <figure xml:id="figure16" rend="imageviewer">
+                        <graphic url="Nedeljkovic%CC%81_Slika_3.jpg"/>
+                        <graphic url="Nedeljkovic%CC%81_Slika_3-normal.jpg"/>
+                        <head>Tako imenovani »likvidatorji«.<note place="foot" xml:id="ftn354"
+                                n="354"> Stahlmandesign 2006</note>
                         </head>
                     </figure>
                     <p style="text-align:justify">In končno, 14. maja se je na javnost obrnil
                         Gorbačov: prvič in zadnjič. Od 15. maja naprej je obstajal le še en načrt za
                         reaktor 4: njegov pokop. Junija so potrdili načrt o tako imenovanem
-                        sarkofagu, ki bi zakril cel četrti reaktor. Od 7. do 29. julija 1987 so bili
-                        sodni procesi proti šestim osebam, ki naj bi bile odgovorne za nesrečo.<note
-                            place="foot" xml:id="ftn355" n="355"> Plokhy, Chernobyl, 197, 210–211,
-                            228</note> V Ukrajini je več kot 50.000 ljudi, ki imajo status invalida
-                        zaradi Černobila in ki nujno potrebujejo socialno pomoč. Černobil je nehal
-                        delovati leta 1993, dve leti pred načrtovanim vzmetenjem.<note place="foot"
-                            xml:id="ftn356" n="356"> Plokhy, Chernobyl, 271–272</note> Število
-                        žrtev, umrlih zaradi Černobila, je še vedno neznanka. Uradno je priznano 31
-                        žrtev, čeprav govori Greenpeace o več kot 90.000 umrlih. Število otrok,
-                        obolelih z rakom, se je zvišalo za 90 %. Zaradi radiacije območje okoli
-                        Černobila ne bo primerno za življenje še vsaj 20.000 let.<note place="foot"
-                            xml:id="ftn357" n="357"> Plokhy, Chernobyl, 280–282</note> Leta 1988 so
-                        se začeli organizirati protesti v zvezi s černobilsko katastrofo. Naslednje
-                        leto je obiskal Gorbačov Černobil, prvič po nesreči.<note place="foot"
-                            xml:id="ftn358" n="358"> Plokhy, Chernobyl 245 in 249</note></p>
+                        sarkofagu, ki bi zakril cel četrti reaktor. Od 7. do 29. julija 1987 so
+                        potekali sodni procesi proti šestim osebam, ki naj bi bile odgovorne za
+                            nesrečo.<note place="foot" xml:id="ftn355" n="355"> Plokhy, Chernobyl,
+                            197, 210–211, 228</note> V Ukrajini je več kot 50.000 ljudi, ki imajo
+                        status invalida zaradi Černobila in ki nujno potrebujejo socialno pomoč.
+                        Černobil je nehal delovati leta 1993, dve leti pred načrtovanim
+                            vzmetenjem.<note place="foot" xml:id="ftn356" n="356"> Plokhy,
+                            Chernobyl, 271–272</note> Število žrtev, umrlih zaradi Černobila, je še
+                        vedno neznanka. Uradno je priznano 31 žrtev, čeprav govori Greenpeace o več
+                        kot 90.000 umrlih. Število otrok, obolelih z rakom, se je zvišalo za 90 %.
+                        Zaradi radiacije območje okoli Černobila ne bo primerno za življenje še vsaj
+                        20.000 let.<note place="foot" xml:id="ftn357" n="357"> Plokhy, Chernobyl,
+                            280–282</note> Leta 1988 so se začeli organizirati protesti v zvezi s
+                        černobilsko katastrofo. Leto zatem je kraj nesreče obiskal Gorbačov, prvič
+                        po nesreči.<note place="foot" xml:id="ftn358" n="358"> Plokhy, Chernobyl 245
+                            in 249</note></p>
                     <p style="text-align:justify">Marjan Jerman, novinar na RTV SLO, je potoval kot
                         predstavnik Rdečega križa in stranke Zelenih v Ukrajino samo nekaj mesecev
                         po nesreči. Obiskal je tudi bolnišnico v Kijevu, kjer so ležali ljudje s
@@ -4011,9 +3976,9 @@
                 </div>
                 <div type="subchapter" xml:id="ch05-sub03">
                     <head>3 PREBIVALSTVO OKOLICE ČERNOBILA O ČERNOBILU</head>
-                    <p style="text-align:justify">Kot posledica nesreče je bilo uničenih več kot 400
-                        vasic in mest, od katerih jih 17 več ne obstaja. Radiacija je še vedno eden
-                        glavnih vzrokov za smrt in bolezni v Ukrajini in Belorusiji. Čeprav je
+                    <p style="text-align:justify">Kot posledica nesreče je bilo uničenih več kot
+                        400 vasic in mest, od katerih jih 17 ne obstaja več. Radiacija je še vedno
+                        eden glavnih vzrokov za smrt in bolezni v Ukrajini in Belorusiji. Čeprav je
                         Belorusija gozdnata država, je bolj znana po ravni radioaktivnosti v teh
                         gozdovih kot po njihovi razširjenosti. Radioaktivnost se je razširila vse do
                         Japonske in ZDA v manj kot desetih dneh od nesreče. Nemogoče je določiti
@@ -4173,9 +4138,9 @@
                         glede tega.<note place="foot" xml:id="ftn376" n="376"> Nevidna nevarnost z
                             neba, Delo, 4</note> Nekaj strani po tem se govori o umirjanju življenja
                         v državi in zmanjševanju sevanja. Mleko iz trgovin se lahko pije, saj je
-                        skrbno preverjeno. Zelenjava se še vedno odsvetuje.<note place="foot"
-                            xml:id="ftn377" n="377"> Življenje po vsej državi se umirja, Delo,
-                            5</note></p>
+                        skrbno preverjeno. Uživanje sveže zelenjave se še vedno odsvetuje.<note
+                            place="foot" xml:id="ftn377" n="377"> Življenje po vsej državi se
+                            umirja, Delo, 5</note></p>
                     <p style="text-align:justify">Pristopi, omenjeni 7. maja, so nekoliko
                         »nenavadni«. Govora je o konferenci za časnikarje v Moskvi. Naslov pravi, da
                         je »še veliko vprašanj« brez odgovorov, v tekstu pa piše, da je javnost
@@ -4224,21 +4189,23 @@
                         zamude? <note place="foot" xml:id="ftn388" n="388"> Tudi vlada v Moskvi?
                             Delo, 14</note></p>
                     <p style="text-align:justify">28. maja se razpravlja o spremembi regulacij glede
-                        uvoza živil iz Jugoslavije in še nekaterih ogroženih držav.<note
+                        izvoza živil iz Jugoslavije in še nekaterih ogroženih držav.<note
                             place="foot" xml:id="ftn389" n="389"> Tik pred sklepom? Delo, 1</note>
                         Naslednji dan se piše o sestanku v Osijeku, kjer naj bi se zahtevala
-                        ukinitev prepovedi uvoza sveže hrane iz sedmih držav. Kmetje namreč niso
-                        dobivali denarne odškodnine za izgubo, ki so jo utrpeli.<note place="foot"
-                            xml:id="ftn390" n="390"> EGS naj odpravi ukrepe, Delo, 1</note></p>
-                    <p style="text-align:justify">31. maja so pisali o ukinjanju prepovedi uvoza
-                        sveže hrane iz sedmih držav, ki so bile pod večjim vplivom nesreče.<note
+                        ukinitev prepovedi izvoza sveže hrane iz sedmih držav, ena izmed katerih je
+                        bila tudi Jugoslavija. Kmetje namreč niso dobivali denarne odškodnine za
+                        izgubo, ki so jo utrpeli.<note place="foot" xml:id="ftn390" n="390"> EGS naj
+                            odpravi ukrepe, Delo, 1</note></p>
+                    <p style="text-align:justify">31. maja so pisali o ukinjanju prepovedi izvoza
+                        sveže hrane iz sedmih držav, ki so bile pod večjim nesreče.<note
                             place="foot" xml:id="ftn391" n="391"> EGS ukinila prepoved, Delo,
                             1</note> S tem se je končal spor o tem, katera hrana je škodljiva.
                         Skupaj z ukinjanjem tega se je zmanjšal interes časopisa glede tega, da bi
-                        obveščal o dogodkih v zvezi z nesrečo. Mesec in pol po nesreči, 16. junija,
-                        piše Delo o odstavitvi vseh »krivih« za nesrečo. Takrat naj bi bila javnost
-                        prvič seznanjena s pravimi krivci za dogodek.<note place="foot"
-                            xml:id="ftn392" n="392"> Obsodili in odstavili vse, Delo, 8</note></p>
+                        obveščal slovensko javnost o dogodkih v zvezi z nesrečo. Mesec in pol po
+                        nesreči, 16. junija, piše Delo o odstavitvi vseh »krivih« za nesrečo. Takrat
+                        naj bi bila javnost prvič seznanjena s pravimi krivci za dogodek.<note
+                            place="foot" xml:id="ftn392" n="392"> Obsodili in odstavili vse, Delo,
+                            8</note></p>
                     <p style="text-align:justify">Naslednje leto na 28. april je Delo posvetilo
                         nekaj pozornosti černobilski nesreči. Šele na četrti strani najdemo en
                         članek, ki pravi, da se »Černobil ne sme ponoviti«. Bolj kot da bi se
@@ -4299,11 +4266,11 @@
                         karakterizacijo tveganja, ki ji sledi upravljanje s tveganji.</p>
                     <p style="text-align:justify">Pri raziskovanju ocene tveganja na ljudi je treba
                         upoštevati, kako neka substanca na ljudi vpliva, v kolikšni meri in podobno.
-                        V raziskavi je med splošno oceno in oceno vpliva na ljudi je pomembna
-                        razlika – pri prvi obravnavamo vpliv na vsa živa bitja, pri drugi pa vpliv
-                        na (izključno) človeka. Pri tem lahko raziskujemo, kako ena ali več substanc
-                        vplivajo na ljudi. <note place="foot" xml:id="ftn397" n="397"> Escher,
-                            Lecture 1</note></p>
+                        V raziskavi je med splošno oceno in oceno vpliva na ljudi pomembna razlika –
+                        pri prvi obravnavamo vpliv na vsa živa bitja, pri drugi pa vpliv na
+                        (izključno) človeka. Pri tem lahko raziskujemo, kako ena ali več substanc
+                        vplivajo na ljudi.<note place="foot" xml:id="ftn397" n="397">Escher, Lecture
+                            1</note></p>
                 </div>
                 <div type="subchapter" xml:id="ch05-sub07">
                     <head>7 ZAKLJUČEK</head>
@@ -4373,11 +4340,12 @@
                         odsvetovani. Mesto je postalo spomenik. Vprašanje je samo, ali je postalo
                         »spomenik človeške neumnosti«.<note place="foot" xml:id="ftn405" n="405">
                             Hvalc in Košmrlj, 30 let Černobila</note></p>
-                    <figure xml:id="figure17">
-                        <graphic url="Nedeljkovic%CC%81_Slika_4.jpg"></graphic>
-                        <head>Černobil
-                            danes.<note place="foot" xml:id="ftn406" n="406"> IAEA Imagebank,
-                            2005</note></head></figure>
+                    <figure xml:id="figure17" rend="imageviewer">
+                        <graphic url="Nedeljkovic%CC%81_Slika_4.jpg"/>
+                        <graphic url="Nedeljkovic%CC%81_Slika_4-normal.jpg"/>
+                        <head>Černobil danes.<note place="foot" xml:id="ftn406" n="406"> IAEA
+                                Imagebank, 2005</note></head>
+                    </figure>
                 </div>
             </div>
             <div type="chapter" xml:id="ch06">
@@ -4406,10 +4374,10 @@
                         svetu ni bila še niti blizu svoji današnji moči, vplivu in statusu
                         velesile.</p>
                     <p style="text-align:justify">Ob tem si zastavljam in obravnavam temeljno
-                        hipotezo, da je komunistična državna oblast Ljudske republike Kitajske pod
+                        hipotezo, da komunistična državna oblast Ljudske republike Kitajske pod
                         vodstvom Maa Cetunga (1949–1976) ni namenjala posebne pozornosti varovanju
                         okolja oziroma je bila naravovarstvena problematika za takratno oblast
-                        drugotnega pomena. </p>
+                        drugotnega pomena.</p>
                 </div>
                 <div type="subchapter" xml:id="ch06-sub02">
                     <head>2 ZGODOVINSKO OZADJE: OD SINHAJSKE REVOLUCIJE LETA 1911 DO RAZGLASITVE LRK
@@ -4798,7 +4766,7 @@
                     <p style="text-align:justify">Represivna narava komunističnih sistemov pa ni v
                         kali zatrla zgolj neodvisne civilne družbe, temveč tudi kritične
                         raziskovalce, znanstvenike in druge strokovnjake, ki bi si drznili s svojimi
-                        argumenti postaviti se po robu kakršnikoli uradni (znanstveni) doktrini.
+                        argumenti postaviti po robu kakršnikoli uradni (znanstveni) doktrini.
                         Verjetno najbolj znan primer takšnega zatrtja kritične znanstvene misli,
                         zaradi katerega je kasneje prišlo do katastrofalnih posledic, je bila
                         brezpogojna uvedba naukov lisenkizma v sovjetsko agronomijo v času Stalinove
@@ -4817,20 +4785,19 @@
                         vernalizacijo. Zgodovinarji ocenjujejo, da je bilo v času Stalinovega
                         vladanja odpuščenih, zaprtih, mučenih, usmrčenih ali drugače kaznovanih na
                         tisoče znanstvenikov, ki so si upali tako ali drugače javno izraziti dvom v
-                        absurdne Lisenkove trditve. <note place="foot" xml:id="ftn441" n="441">
+                        absurdne Lisenkove trditve.<note place="foot" xml:id="ftn441" n="441">
                             Lerner, Lysenkoism </note></p>
                     <p style="text-align:justify">Čeprav je lisenkizem, katerega implementacija je
                         bila soodgovorna za množično (latentno) lakoto v tridesetih letih in je
                         zahtevala na milijone žrtev, po Stalinovi smrti leta 1953 in kasnejši
                         Hruščevi javni obsodbi stalinizma leta 1956 v Sovjetski zvezi utonil v
-                        pozabo, pa so ga kljub temu v agronomsko prakso implementirali v mnogih
-                        drugih komunističnih državah po svetu, med drugim tudi v LRK, kjer pa je na
-                        žalost prav tako kot desetletja pred tem v SZ pripomogel k upadu ali
-                        uničenju pridelkov poljščin in izbruhu obsežne lakote ob koncu petdesetih in
-                        v začetku šestdesetih let 20. stoletja, ki je zahtevala življenja na
-                        desetine milijonov kitajskih državljanov širom LRK, zlasti na
-                            podeželju.<note place="foot" xml:id="ftn442" n="442"> Prav
-                        tam</note></p>
+                        pozabo, so ga kljub temu v agronomsko prakso implementirali v mnogih drugih
+                        komunističnih državah po svetu, med drugim tudi v LRK, kjer pa je na žalost
+                        prav tako kot desetletja pred tem v SZ pripomogel k upadu ali uničenju
+                        pridelkov poljščin in izbruhu obsežne lakote ob koncu petdesetih in v
+                        začetku šestdesetih let 20. stoletja, ki je zahtevala življenja na desetine
+                        milijonov kitajskih državljanov širom LRK, zlasti na podeželju.<note
+                            place="foot" xml:id="ftn442" n="442"> Prav tam</note></p>
                     <p style="text-align:justify">Pomanjkanje kmetijskih pridelkov zaradi
                         skorajšnjega kolapsa agrarnih dejavnosti ni bila edina tegoba, ki je pestila
                         LRK zaradi napačnih odločitev političnega vodstva. Katastrofalne učinke je
@@ -4889,15 +4856,15 @@
                     <p style="text-align:justify">Vendar pa ni noben ukrep KPK pustil v kitajskem
                         okolju tako grozljivega in neizbrisnega pečata kot politika spodbujanja
                         masovne proizvodnje jekla z vzpostavitvijo t. i. množične metalurgije, ki je
-                            <hi rend="italic">de facto</hi> pomenila preusmeritev velike večine
-                        državnega gospodarstva v proizvodnjo jekla. S tem namenom je na sto tisoče
-                        kmetovalcev širom vse države skorajda popolnoma prenehalo s svojimi
-                        običajnimi dejavnostmi v poljedelstvu in živinoreji ter na svojih posestvih
-                        postavilo t. i. male dvoriščne plavže, s katerimi naj bi na dolgi rok na
-                        državni ravni proizvedli enormne količine jekla. Mao je namreč na podlagi
-                        svojih opažanj tedanjih globalnih gospodarskih trendov verjel, da lahko neka
-                        država postane gospodarska velesila samo, če ima vzpostavljeno robustno
-                        jeklarsko proizvodnjo.<note place="foot" xml:id="ftn447" n="447"> Cairns in
+                        de facto pomenila preusmeritev velike večine državnega gospodarstva v
+                        proizvodnjo jekla. S tem namenom je na sto tisoče kmetovalcev širom vse
+                        države skorajda popolnoma prenehalo s svojimi običajnimi dejavnostmi v
+                        poljedelstvu in živinoreji ter na svojih posestvih postavilo t. i. male
+                        dvoriščne plavže, s katerimi naj bi na dolgi rok na državni ravni proizvedli
+                        enormne količine jekla. Mao je namreč na podlagi svojih opažanj tedanjih
+                        globalnih gospodarskih trendov verjel, da lahko neka država postane
+                        gospodarska velesila samo, če ima vzpostavljeno močno jeklarsko
+                            proizvodnjo.<note place="foot" xml:id="ftn447" n="447"> Cairns in
                             Llewellyn, The Great Leap </note>
                     </p>
                     <p style="text-align:justify">Samo vprašanje časa je bilo, kdaj se bodo pričeli
@@ -4944,7 +4911,7 @@
                     <p style="text-align:justify">Poleg tega je usmerjanje velike večine časa,
                         virov, pozornosti in energije v železarstvo privedlo do kroničnega
                         zapostavljanja drugih gospodarskih panog, ki so bile seveda vitalnega pomena
-                        za normalno funkcioniranje sodobne države. Izmed vseh panog je verjetno
+                        za normalno funkcioniranje moderne države. Izmed vseh panog je verjetno
                         največji udarec doživelo kitajsko kmetijstvo, kar po svoje ni bilo nič
                         presenetljivega glede na to, da je bila večina posameznikov, ki se je po
                         novem ukvarjala s pridobivanjem železa oz. jekla, pred masovno
@@ -4975,23 +4942,24 @@
                         republike Kitajske z Maom na čelu ni bilo pretirano mar za dobrobit kitajske
                         flore in favne ter ohranjanje čiste, zdrave in neokrnjene narave, saj so,
                         vse odkar so prevzele oblast leta 1949, dajale prednost napredku,
-                        industrijskemu razvoju in nasploh potrebam družbe. Takšna mentaliteta se je
-                        dolgoročno seveda izkazala za naravnost katastrofalno, saj je prišlo v
-                        veliko primerih do ireverzibilne degradacije naravnega okolja in grozljivih
-                        posledic za zdravje kitajskega prebivalstva.</p>
-                    <p style="text-align:justify">Ker je LRK še danes socialistična država, v kateri
-                        ima vse vzvode oblasti v svojih rokah Komunistična partija Kitajske, se še
-                        vedno nadvse pogosto dogaja, da daje država prednost kratkoročnim ciljem
-                        industrijskega razvoja oz. gospodarskega napredka, na račun katerih
+                        industrijskemu razvoju in nasploh drugim politično prednostnim potrebam
+                        družbe. Takšna mentaliteta se je dolgoročno seveda izkazala za naravnost
+                        katastrofalno, saj je prišlo v veliko primerih do ireverzibilne degradacije
+                        naravnega okolja in grozljivih posledic za zdravje kitajskega
+                        prebivalstva.</p>
+                    <p style="text-align:justify">Ker je LRK še danes socialistična država, v
+                        kateri ima vse vzvode oblasti v svojih rokah Komunistična partija Kitajske,
+                        se še vedno nadvse pogosto dogaja, da daje država prednost kratkoročnim
+                        ciljem industrijskega razvoja oz. gospodarskega napredka, na račun katerih
                         mnogokrat zanemarja trajnostni razvoj, vzdržno rast, varstvo narave in
                         zaščito flore ter favne. Glede na dejstvo, da je celinska Kitajska z 1,425
                         milijarde prebivalcev številčno največja država na svetu, in glede na to, da
                         živimo v čedalje bolj globaliziranem svetu, kjer praktično ni več prostora
                         za »notranje zadeve« neke države, se bodo morale v prihodnje tudi kitajske
-                        politične oblasti absolutno zamisliti nad svojim odnosom do okolja ter
-                        spoznati, da kratkoročni cilji in težnje po razvoju oz. gospodarski rasti
-                        absolutno ne morejo in ne smejo zasenčiti naslavljanja okoljskih
-                        problematik, ki postajajo dandanes čedalje bolj pereče.</p>
+                        politične oblasti vsekakor zamisliti nad svojim odnosom do okolja ter
+                        spoznati, da kratkoročni cilji in težnje po razvoju oz. gospodarski rasti ne
+                        morejo in ne smejo zasenčiti naslavljanja okoljskih problematik, ki
+                        postajajo dandanes čedalje bolj pereče.</p>
                     <p style="text-align:justify">Če se na koncu svojega prispevka opredelim do
                         temeljne hipoteze, ki sem jo postavil v uvodnem delu, lahko le-to potrdim,
                         saj kitajska oblast pod Maom Cetungom ni namenjala posebne pozornosti
