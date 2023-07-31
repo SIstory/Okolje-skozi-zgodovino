@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Okolje skozi zgodovino: <lb/>izbrane tematike iz okoljske zgodovine druge
-                    polovice 20. stoletja <lb/>Študentski zbornik</title>
+                    polovice 20. stoletja <lb/>- Študentski zbornik</title>
                 <respStmt>
                     <resp>Uredila</resp>
                     <name>Luka Požar</name>
@@ -24,15 +24,9 @@
                             Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
                             licenco</ref>
                     </p>
-                    <p rend="ciptitle"/>
-                    <p rend="ciptitle"/>
-                    <p rend="cip">Način dostopa (URL): <lb/><ref target="a"/><lb/><ref target="a"
-                        /></p>
-                </availability>
-                <idno type="cobiss">COBISS.SI-ID </idno>
-                <idno type="ISBN">
-                    <idno type="html">ISBN </idno>
-                </idno>
+                    <p rend="CIP" style="text-align:justify"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br><a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID <a href="https://plus.cobiss.si/cobiss/si/sl/bib/159363587" target="_blank">159363587</a><br>ISBN 978-961-7104-24-0 (HTML)]]></p>
+                    </availability>
+                <idno type="URI">https://sistory.github.io/Okolje-skozi-zgodovino/</idno>
             </publicationStmt>
             <sourceDesc>
                 <p>No source, born digital.</p>
@@ -64,12 +58,11 @@
                 <docTitle>
                     <titlePart type="main"> Okolje skozi zgodovino:</titlePart>
                     <titlePart type="sub"> izbrane tematike iz okoljske zgodovine druge polovice 20.
-                        stoletja </titlePart>
-                    <titlePart type="sub">Študentski zbornik</titlePart>
+                        stoletja<lb/> - Študentski zbornik</titlePart>
                 </docTitle>
                 <docAuthor>Luka Požar (ur.)</docAuthor>
                 <docAuthor>Tereza Prešeren (ur.)</docAuthor>
-                <graphic url="naslovnica.jpg"/>
+                <graphic url="naslovnica.png"/>
                 <docImprint>
                     <publisher></publisher>
                     <pubPlace>Ljubljana</pubPlace>
@@ -4969,7 +4962,7 @@
         </body>
         <back>
             <div type="bibliogr" xml:id="bibl">
-                <head>VIRI IN LITERATURA</head>
+                <head>Viri in literatura</head>
                 <listBibl>
                     <bibl>Agencija Republike Slovenije za okolje. 2023. Atlas okolja (dostopno na:
                             <ref
